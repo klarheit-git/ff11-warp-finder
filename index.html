@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FFXI Warp Finder</title>
+    <link rel="stylesheet" href="./styles.css" />
+</head>
+
+<body>
+    <main class="app-shell">
+        <header class="hero">
+            <p class="eyebrow">ヴァナ・ディール移動支援</p>
+            <h1>FF11ワープナビ</h1>
+            <p class="description">
+                FINAL FANTASY XI（FF11/FFXI）の、とてもとてもたくさんあるワープ移動を探すためのツール。</br>
+                まだ作成途中で、ホームポイントとサバイバルガイドしか対応してないよ。
+            </p>
+        </header>
+
+        <section class="controls" aria-label="エリア選択">
+            <label class="control-card">
+                <span>到着エリア</span>
+                <select id="to-area"></select>
+            </label>
+            <label class="control-card">
+                <span>出発エリア</span>
+                <select id="from-area"></select>
+            </label>
+        </section>
+
+        <section id="summary" class="summary-card" aria-live="polite"></section>
+        <section id="route-list" class="route-list" aria-live="polite"></section>
+    </main>
+
+    <script src="./app.js"></script>
+</body>
+
+</html>

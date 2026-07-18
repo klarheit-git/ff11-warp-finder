@@ -1,0 +1,1974 @@
+[
+  {
+    "id": "upper_jeuno_hp1_e",
+    "name_jp": "ジュノ上層 #1(E)",
+    "name_en": "Upper Jeuno #1 (E)",
+    "description": "バタリア丘陵出口",
+    "contents": [
+      "mount",
+      "ride_chocobo",
+      "signet"
+    ],
+    "aliases": [
+      "UpJeuno"
+    ],
+    "pos": "F-5"
+  },
+  {
+    "id": "southern_san_doria_hp1_e",
+    "name_jp": "南サンドリア #1(E)",
+    "name_en": "South San doria #1 (E)",
+    "description": "西門（西ロンフォール出口）",
+    "contents": [],
+    "aliases": [
+      "SSandOria"
+    ],
+    "pos": "G-10"
+  },
+  {
+    "id": "southern_san_doria_hp2_a",
+    "name_jp": "南サンドリア #2(A)",
+    "name_en": "South San doria #2 (A)",
+    "description": "競売所前",
+    "contents": [],
+    "aliases": [
+      "SSandOria"
+    ],
+    "pos": "J-9"
+  },
+  {
+    "id": "southern_san_doria_hp3_m",
+    "name_jp": "南サンドリア #3(M)",
+    "name_en": "South San doria #3 (M)",
+    "description": "モグハウス前",
+    "contents": [],
+    "aliases": [
+      "SSandOria"
+    ],
+    "pos": "M-5"
+  },
+  {
+    "id": "southern_san_doria_hp4",
+    "name_jp": "南サンドリア #4",
+    "name_en": "South San doria #4",
+    "description": "革工ギルド前",
+    "contents": [],
+    "aliases": [
+      "SSandOria"
+    ],
+    "pos": "E-8"
+  },
+  {
+    "id": "northern_san_doria_hp1_e",
+    "name_jp": "北サンドリア #1(E)",
+    "name_en": "North San doria #1 (E)",
+    "description": "ランペール門（西ロンフォール出口）",
+    "contents": [],
+    "aliases": [
+      "NSandOria"
+    ],
+    "pos": "E-8"
+  },
+  {
+    "id": "northern_san_doria_hp2",
+    "name_jp": "北サンドリア #2",
+    "name_en": "North San doria #2",
+    "description": "ドラギーユ城前",
+    "contents": [],
+    "aliases": [
+      "NSandOria"
+    ],
+    "pos": "J-7"
+  },
+  {
+    "id": "northern_san_doria_hp3_m",
+    "name_jp": "北サンドリア #3(M)",
+    "name_en": "North San doria #3 (M)",
+    "description": "モグハウス前",
+    "contents": [],
+    "aliases": [
+      "NSandOria"
+    ],
+    "pos": "K-9"
+  },
+  {
+    "id": "northern_san_doria_hp4",
+    "name_jp": "北サンドリア #4",
+    "name_en": "North San doria #4",
+    "description": "木工ギルド前",
+    "contents": [],
+    "aliases": [
+      "NSandOria"
+    ],
+    "pos": "F-5"
+  },
+  {
+    "id": "port_san_doria_hp1",
+    "name_jp": "サンドリア港 #1",
+    "name_en": "Port San doria #1",
+    "description": "太公望クエスト兄弟前",
+    "contents": [],
+    "aliases": [
+      "PSandOria"
+    ],
+    "pos": "H-8"
+  },
+  {
+    "id": "port_san_doria_hp2_m",
+    "name_jp": "サンドリア港 #2(M)",
+    "name_en": "Port San doria #2 (M)",
+    "description": "モグハウス側三叉路",
+    "contents": [],
+    "aliases": [
+      "PSandOria"
+    ],
+    "pos": "J-9"
+  },
+  {
+    "id": "port_san_doria_hp3_a",
+    "name_jp": "サンドリア港 #3(A)",
+    "name_en": "Port San doria #3 (A)",
+    "description": "競売所2F",
+    "contents": [],
+    "aliases": [
+      "PSandOria"
+    ],
+    "pos": "H-10"
+  },
+  {
+    "id": "bastok_mines_hp1_a",
+    "name_jp": "バストゥーク鉱山区 #1(A)",
+    "name_en": "Bastok Mines #1 (A)",
+    "description": "競売所横",
+    "contents": [],
+    "aliases": [
+      "BastokMine"
+    ],
+    "pos": "I-8"
+  },
+  {
+    "id": "bastok_mines_hp2_m",
+    "name_jp": "バストゥーク鉱山区 #2(M)",
+    "name_en": "Bastok Mines #2 (M)",
+    "description": "モグハウス前",
+    "contents": [],
+    "aliases": [
+      "BastokMine"
+    ],
+    "pos": "K-8"
+  },
+  {
+    "id": "bastok_mines_hp3",
+    "name_jp": "バストゥーク鉱山区 #3",
+    "name_en": "Bastok Mines #3",
+    "description": "錬金術ギルド前",
+    "contents": [],
+    "aliases": [
+      "BastokMine"
+    ],
+    "pos": "K-7"
+  },
+  {
+    "id": "bastok_markets_hp1_e",
+    "name_jp": "バストゥーク商業区 #1(E)",
+    "name_en": "Bastok Markets #1 (E)",
+    "description": "西門前",
+    "contents": [],
+    "aliases": [
+      "BastokMark"
+    ],
+    "pos": "E-10"
+  },
+  {
+    "id": "bastok_markets_hp2_a",
+    "name_jp": "バストゥーク商業区 #2(A)",
+    "name_en": "Bastok Markets #2 (A)",
+    "description": "競売所横",
+    "contents": [],
+    "aliases": [
+      "BastokMark"
+    ],
+    "pos": "E-7"
+  },
+  {
+    "id": "bastok_markets_hp3_m",
+    "name_jp": "バストゥーク商業区 #3(M)",
+    "name_en": "Bastok Markets #3 (M)",
+    "description": "モグハウス前",
+    "contents": [],
+    "aliases": [
+      "BastokMark"
+    ],
+    "pos": "I-6"
+  },
+  {
+    "id": "bastok_markets_hp4",
+    "name_jp": "バストゥーク商業区 #4",
+    "name_en": "Bastok Markets #4",
+    "description": "彫金ギルド前",
+    "contents": [],
+    "aliases": [
+      "BastokMark"
+    ],
+    "pos": "I-8"
+  },
+  {
+    "id": "port_bastok_hp1_e",
+    "name_jp": "バストゥーク港 #1(E)",
+    "name_en": "Port Bastok #1 (E)",
+    "description": "北グスタベルグ出口",
+    "contents": [],
+    "aliases": [
+      "PortBastok"
+    ],
+    "pos": "L-6"
+  },
+  {
+    "id": "port_bastok_hp2_m",
+    "name_jp": "バストゥーク港 #2(M)",
+    "name_en": "Port Bastok #2 (M)",
+    "description": "モグハウス前",
+    "contents": [],
+    "aliases": [
+      "PortBastok"
+    ],
+    "pos": "J-13"
+  },
+  {
+    "id": "port_bastok_hp3",
+    "name_jp": "バストゥーク港 #3",
+    "name_en": "Port Bastok #3",
+    "description": "蒸気の羊亭前",
+    "contents": [],
+    "aliases": [
+      "PortBastok"
+    ],
+    "pos": "E-6"
+  },
+  {
+    "id": "windurst_waters_hp1_e",
+    "name_jp": "ウィンダス水の区 #1(E)",
+    "name_en": "Windurst Waters #1 (E)",
+    "description": "MAP[1]（北マップ）、目の院裏手",
+    "contents": [],
+    "aliases": [
+      "WindWaters"
+    ],
+    "pos": "G-7"
+  },
+  {
+    "id": "windurst_waters_hp2_m",
+    "name_jp": "ウィンダス水の区 #2(M)",
+    "name_en": "Windurst Waters #2 (M)",
+    "description": "MAP[1]（北マップ）、モグハウス前",
+    "contents": [],
+    "aliases": [
+      "WindWaters"
+    ],
+    "pos": "K-11"
+  },
+  {
+    "id": "windurst_waters_hp3",
+    "name_jp": "ウィンダス水の区 #3",
+    "name_en": "Windurst Waters #3",
+    "description": "MAP[2]（南マップ）、鼻の院前",
+    "contents": [],
+    "aliases": [
+      "WindWaters"
+    ],
+    "pos": "J-8"
+  },
+  {
+    "id": "windurst_waters_hp4",
+    "name_jp": "ウィンダス水の区 #4",
+    "name_en": "Windurst Waters #4",
+    "description": "MAP[1]（北マップ）、調理ギルド前",
+    "contents": [],
+    "aliases": [
+      "WindWaters"
+    ],
+    "pos": "E-9"
+  },
+  {
+    "id": "port_windurst_hp1",
+    "name_jp": "ウィンダス港 #1",
+    "name_en": "Port Windurst #1",
+    "description": "漁師ギルド前",
+    "contents": [],
+    "aliases": [
+      "PortWind"
+    ],
+    "pos": "C-7"
+  },
+  {
+    "id": "port_windurst_hp2_e",
+    "name_jp": "ウィンダス港 #2(E)",
+    "name_en": "Port Windurst #2 (E)",
+    "description": "シヴァ門（西サルタバルタ出口）",
+    "contents": [],
+    "aliases": [
+      "PortWind"
+    ],
+    "pos": "B-4"
+  },
+  {
+    "id": "port_windurst_hp3_m",
+    "name_jp": "ウィンダス港 #3(M)",
+    "name_en": "Port Windurst #3 (M)",
+    "description": "モグハウス前",
+    "contents": [],
+    "aliases": [
+      "PortWind"
+    ],
+    "pos": "L-4"
+  },
+  {
+    "id": "rulude_gardens_hp1",
+    "name_jp": "ル・ルデの庭 #1",
+    "name_en": "Ru'Lude Gardens #1",
+    "description": "大公宮前",
+    "contents": [],
+    "aliases": [
+      "RuLudeGard"
+    ],
+    "pos": "H-8"
+  },
+  {
+    "id": "rulude_gardens_hp2_m",
+    "name_jp": "ル・ルデの庭 #2(M)",
+    "name_en": "Ru'Lude Gardens #2 (M)",
+    "description": "モグハウス前",
+    "contents": [],
+    "aliases": [
+      "RuLudeGard"
+    ],
+    "pos": "I-9"
+  },
+  {
+    "id": "rulude_gardens_hp3_a",
+    "name_jp": "ル・ルデの庭 #3(A)",
+    "name_en": "Ru'Lude Gardens #3 (A)",
+    "description": "競売所前",
+    "contents": [],
+    "aliases": [
+      "RuLudeGard"
+    ],
+    "pos": "F-9"
+  },
+  {
+    "id": "upper_jeuno_hp2_m",
+    "name_jp": "ジュノ上層 #2(M)",
+    "name_en": "Upper Jeuno #2 (M)",
+    "description": "モグハウス前",
+    "contents": [],
+    "aliases": [
+      "UpJeuno"
+    ],
+    "pos": "I-11"
+  },
+  {
+    "id": "upper_jeuno_hp3_a",
+    "name_jp": "ジュノ上層 #3(A)",
+    "name_en": "Upper Jeuno #3 (A)",
+    "description": "競売所前（モンブロー医院前）",
+    "contents": [],
+    "aliases": [
+      "UpJeuno"
+    ],
+    "pos": "G-9"
+  },
+  {
+    "id": "lower_jeuno_hp1_e",
+    "name_jp": "ジュノ下層 #1(E)",
+    "name_en": "Lower Jeuno #1 (E)",
+    "description": "ロランベリー耕地出口",
+    "contents": [],
+    "aliases": [
+      "LowJeuno"
+    ],
+    "pos": "G-11"
+  },
+  {
+    "id": "lower_jeuno_hp2_m",
+    "name_jp": "ジュノ下層 #2(M)",
+    "name_en": "Lower Jeuno #2 (M)",
+    "description": "モグハウス前",
+    "contents": [],
+    "aliases": [
+      "LowJeuno"
+    ],
+    "pos": "I-5"
+  },
+  {
+    "id": "port_jeuno_hp1_e",
+    "name_jp": "ジュノ港 #1(E)",
+    "name_en": "Port Jeuno #1 (E)",
+    "description": "ソロムグ原野出口",
+    "contents": [],
+    "aliases": [
+      "PortJeuno"
+    ],
+    "pos": "J-8"
+  },
+  {
+    "id": "port_jeuno_hp2_m",
+    "name_jp": "ジュノ港 #2(M)",
+    "name_en": "Port Jeuno #2 (M)",
+    "description": "モグハウス前",
+    "contents": [],
+    "aliases": [
+      "PortJeuno"
+    ],
+    "pos": "F-8"
+  },
+  {
+    "id": "tavnazian_safehold_hp1",
+    "name_jp": "タブナジア地下壕 #1",
+    "name_en": "Tabnadia Underground Burrow #1",
+    "description": "MAP[2]（2Fマップ）、出口前",
+    "contents": [],
+    "aliases": [
+      "TavSafehld"
+    ],
+    "pos": "H-6"
+  },
+  {
+    "id": "tavnazian_safehold_hp2",
+    "name_jp": "タブナジア地下壕 #2",
+    "name_en": "Tabnadia Underground Burrow #2",
+    "description": "MAP[3]（1Fマップ）、海獅子の巣窟前",
+    "contents": [],
+    "aliases": [
+      "TavSafehld"
+    ],
+    "pos": "H-8"
+  },
+  {
+    "id": "tavnazian_safehold_hp3",
+    "name_jp": "タブナジア地下壕 #3",
+    "name_en": "Tabnadia Underground Burrow #3",
+    "description": "MAP[1]（3Fマップ）、プリッシュの部屋の段差下",
+    "contents": [],
+    "aliases": [
+      "TavSafehld"
+    ],
+    "pos": "J-7"
+  },
+  {
+    "id": "aht_urhgan_whitegate_hp1",
+    "name_jp": "アトルガン白門 #1",
+    "name_en": "Aht Urhgan Whitegate #1",
+    "description": "蛇王広場（噴水近く）",
+    "contents": [],
+    "aliases": [
+      "WhiteGate"
+    ],
+    "pos": "H-9"
+  },
+  {
+    "id": "aht_urhgan_whitegate_hp2",
+    "name_jp": "アトルガン白門 #2",
+    "name_en": "Aht Urhgan Whitegate #2",
+    "description": "公務代理店前",
+    "contents": [],
+    "aliases": [
+      "WhiteGate"
+    ],
+    "pos": "L-9"
+  },
+  {
+    "id": "aht_urhgan_whitegate_hp3",
+    "name_jp": "アトルガン白門 #3",
+    "name_en": "Aht Urhgan Whitegate #3",
+    "description": "競売所、錬金術ギルド前",
+    "contents": [],
+    "aliases": [
+      "WhiteGate"
+    ],
+    "pos": "F-6"
+  },
+  {
+    "id": "aht_urhgan_whitegate_hp4",
+    "name_jp": "アトルガン白門 #4",
+    "name_en": "Aht Urhgan Whitegate #4",
+    "description": "レンタルハウス前",
+    "contents": [],
+    "aliases": [
+      "WhiteGate"
+    ],
+    "pos": "F-10"
+  },
+  {
+    "id": "bhaflau_thickets_hp1",
+    "name_jp": "バフラウ段丘 #1",
+    "name_en": "Bhaflau Thickets #1",
+    "description": "MAP[2]、翡翠廟前",
+    "contents": [],
+    "aliases": [
+      "BhafThicket"
+    ],
+    "pos": "I-9"
+  },
+  {
+    "id": "western_adoulin_hp1_a",
+    "name_jp": "西アドゥリン #1(A)",
+    "name_en": "Western Adoulin #1(A)",
+    "description": "PIO.ワークス前",
+    "contents": [],
+    "aliases": [
+      "WestAdoulin"
+    ],
+    "pos": "E-9"
+  },
+  {
+    "id": "western_adoulin_hp2",
+    "name_jp": "西アドゥリン #2",
+    "name_en": "Western Adoulin #2",
+    "description": "レンタルハウス横",
+    "contents": [],
+    "aliases": [
+      "WestAdoulin"
+    ],
+    "pos": "H-12"
+  },
+  {
+    "id": "eastern_adoulin_hp1",
+    "name_jp": "東アドゥリン #1",
+    "name_en": "Eastern Adoulin #1",
+    "description": "ヤッセの狩り場方面船着き場近く",
+    "contents": [],
+    "aliases": [
+      "EastAdoulin"
+    ],
+    "pos": "G-6"
+  },
+  {
+    "id": "eastern_adoulin_hp2",
+    "name_jp": "東アドゥリン #2",
+    "name_en": "Eastern Adoulin #2",
+    "description": "競売所ウェイポイント前",
+    "contents": [],
+    "aliases": [
+      "EastAdoulin"
+    ],
+    "pos": "G-10"
+  },
+  {
+    "id": "yughott_grotto_hp1",
+    "name_jp": "ユグホトの岩屋 #1",
+    "name_en": "Yughott Grotto #1",
+    "description": "MAP[2]、ホルレーの岩峰前",
+    "contents": [],
+    "aliases": [
+      "Yughott"
+    ],
+    "pos": "J-6"
+  },
+  {
+    "id": "selbina_hp1",
+    "name_jp": "セルビナ #1",
+    "name_en": "Selbina #1",
+    "description": "",
+    "contents": [],
+    "aliases": [
+      "Selbina"
+    ],
+    "pos": "I-8"
+  },
+  {
+    "id": "palborough_mines_hp1",
+    "name_jp": "パルブロ鉱山 #1",
+    "name_en": "Palborough Mines #1",
+    "description": "MAP[3]、ワールンの祠前",
+    "contents": [],
+    "aliases": [
+      "Palborough"
+    ],
+    "pos": "H-10"
+  },
+  {
+    "id": "giddeus_hp1",
+    "name_jp": "ギデアス #1",
+    "name_en": "Giddeus #1",
+    "description": "MAP[1]、バルガの舞台前",
+    "contents": [],
+    "aliases": [
+      "Giddeus"
+    ],
+    "pos": "G-12"
+  },
+  {
+    "id": "toraimarai_canal_hp1",
+    "name_jp": "トライマライ水路 #1",
+    "name_en": "Tri-Mahar Waterway #1",
+    "description": "MAP[1]、満月の泉前",
+    "contents": [],
+    "aliases": [
+      "Toraimarai"
+    ],
+    "pos": "G-7"
+  },
+  {
+    "id": "mhaura_hp1",
+    "name_jp": "マウラ #1",
+    "name_en": "Mhaura #1",
+    "description": "階段上",
+    "contents": [],
+    "aliases": [
+      "Mhaura"
+    ],
+    "pos": "H-8"
+  },
+  {
+    "id": "attohwa_chasm_hp1",
+    "name_jp": "アットワ地溝 #1",
+    "name_en": "Attowa Sewer #1",
+    "description": "千骸谷前",
+    "contents": [],
+    "aliases": [
+      "AttohwaCsm"
+    ],
+    "pos": "G-6"
+  },
+  {
+    "id": "feiyin_hp1",
+    "name_jp": "フェ・イン #1",
+    "name_en": "FeiYin #1",
+    "description": "MAP[1]、ク・ビアの闘技場前",
+    "contents": [],
+    "aliases": [
+      "FeiYin"
+    ],
+    "pos": "K-8"
+  },
+  {
+    "id": "feiyin_hp2",
+    "name_jp": "フェ・イン #2",
+    "name_en": "FeiYin #2",
+    "description": "MAP[3]、凍結の回廊前",
+    "contents": [],
+    "aliases": [
+      "FeiYin"
+    ],
+    "pos": "I-5"
+  },
+  {
+    "id": "psoxja_hp1",
+    "name_jp": "ソ・ジヤ #1",
+    "name_en": "psoxja #1",
+    "description": "異界の口前（MAP[16]から進んだ先）、要ソ・ジヤ識別札",
+    "contents": [],
+    "aliases": [
+      "PsoXja"
+    ],
+    "pos": "?-?"
+  },
+  {
+    "id": "zhayolm_remnants_hp1",
+    "name_jp": "ズヴァール城内郭 #1",
+    "name_en": "Zhayolm Remnants #1",
+    "description": "MAP[4]、王の間前",
+    "contents": [],
+    "aliases": [
+      "ZvahlKeep"
+    ],
+    "pos": "G-7"
+  },
+  {
+    "id": "uleguerand_mountains_hp1",
+    "name_jp": "ウルガラン山脈 #1",
+    "name_en": "Uleguerand Mountains #1",
+    "description": "山頂、ウェイポイントからの到着地点",
+    "contents": [],
+    "aliases": [
+      "Uleguerand"
+    ],
+    "pos": "H-7"
+  },
+  {
+    "id": "uleguerand_mountains_hp2",
+    "name_jp": "ウルガラン山脈 #2",
+    "name_en": "Uleguerand Mountains #2",
+    "description": "南東広場の地下・MBF迎え火前",
+    "contents": [],
+    "aliases": [
+      "Uleguerand"
+    ],
+    "pos": "J-9"
+  },
+  {
+    "id": "uleguerand_mountains_hp3",
+    "name_jp": "ウルガラン山脈 #3",
+    "name_en": "Uleguerand Mountains #3",
+    "description": "北東広場の地下・ENMBF白ウサギの後を前",
+    "contents": [],
+    "aliases": [
+      "Uleguerand"
+    ],
+    "pos": "K-7"
+  },
+  {
+    "id": "uleguerand_mountains_hp4",
+    "name_jp": "ウルガラン山脈 #4",
+    "name_en": "Uleguerand Mountains #4",
+    "description": "北広場の地下・ENMBF雪こんこん前",
+    "contents": [],
+    "aliases": [
+      "Uleguerand"
+    ],
+    "pos": "H-5"
+  },
+  {
+    "id": "uleguerand_mountains_hp5",
+    "name_jp": "ウルガラン山脈 #5",
+    "name_en": "Uleguerand Mountains #5",
+    "description": "要千人落しの崖滑り、南斜面の西側",
+    "contents": [],
+    "aliases": [
+      "Uleguerand"
+    ],
+    "pos": "G-9"
+  },
+  {
+    "id": "upper_delkfutts_tower_hp1",
+    "name_jp": "デルクフの塔上層 #1",
+    "name_en": "Upper Delkfutt's Tower #1",
+    "description": "MAP[3]、天輪の場前",
+    "contents": [],
+    "aliases": [
+      "UpDelkfut"
+    ],
+    "pos": "F-9"
+  },
+  {
+    "id": "qufim_island_hp1",
+    "name_jp": "クフィム島 #1",
+    "name_en": "Qufim Island #1",
+    "description": "Undulating Confluence近く",
+    "contents": [],
+    "aliases": [
+      "Qufim"
+    ],
+    "pos": "G-7"
+  },
+  {
+    "id": "boyahda_tree_hp1",
+    "name_jp": "ボヤーダ樹 #1",
+    "name_en": "Boyahda Tree #1",
+    "description": "MAP[3]、雷鳴の回廊前",
+    "contents": [],
+    "aliases": [
+      "Boyahda"
+    ],
+    "pos": "J-12"
+  },
+  {
+    "id": "rabao_hp1",
+    "name_jp": "ラバオ #1",
+    "name_en": "Rabao #1",
+    "description": "西アルテパ砂漠出口前",
+    "contents": [],
+    "aliases": [
+      "Rabao"
+    ],
+    "pos": "F-10"
+  },
+  {
+    "id": "rabao_hp2",
+    "name_jp": "ラバオ #2",
+    "name_en": "Rabao #2",
+    "description": "武器屋横",
+    "contents": [],
+    "aliases": [
+      "Rabao"
+    ],
+    "pos": "G-6"
+  },
+  {
+    "id": "quicksand_caves_hp1",
+    "name_jp": "流砂洞 #1",
+    "name_en": "Quicksand Caves #1",
+    "description": "MAP[5]、宣託の間前要重量扉通過",
+    "contents": [],
+    "aliases": [
+      "Quicksands"
+    ],
+    "pos": "D-5"
+  },
+  {
+    "id": "quicksand_caves_hp2",
+    "name_jp": "流砂洞 #2",
+    "name_en": "Quicksand Caves #2",
+    "description": "MAP[1]、震動の回廊前",
+    "contents": [],
+    "aliases": [
+      "Quicksands"
+    ],
+    "pos": "C-8"
+  },
+  {
+    "id": "cape_teriggan_hp1",
+    "name_jp": "テリガン岬 #1",
+    "name_en": "Cape Teriggan #1",
+    "description": "突風の回廊前",
+    "contents": [],
+    "aliases": [
+      "Teriggan"
+    ],
+    "pos": "F-5"
+  },
+  {
+    "id": "kazham_hp1",
+    "name_jp": "カザム #1",
+    "name_en": "Kazham #1",
+    "description": "ワーコンダロ邸前",
+    "contents": [],
+    "aliases": [
+      "Kazham"
+    ],
+    "pos": "I-9"
+  },
+  {
+    "id": "norg_hp1",
+    "name_jp": "ノーグ #1",
+    "name_en": "Norg #1",
+    "description": "海蛇の岩窟出口前",
+    "contents": [],
+    "aliases": [
+      "Norg"
+    ],
+    "pos": "H-9"
+  },
+  {
+    "id": "norg_hp2",
+    "name_jp": "ノーグ #2",
+    "name_en": "Norg #2",
+    "description": "競売所前",
+    "contents": [],
+    "aliases": [
+      "Norg"
+    ],
+    "pos": "G-7"
+  },
+  {
+    "id": "onnen_cave_hp1",
+    "name_jp": "怨念洞 #1",
+    "name_en": "Onnen Cave #1",
+    "description": "MAP[2]、生贄の間前要怨みの炎の扉通過",
+    "contents": [],
+    "aliases": [
+      "RancorDen"
+    ],
+    "pos": "E-4"
+  },
+  {
+    "id": "onnen_cave_hp2",
+    "name_jp": "怨念洞 #2",
+    "name_en": "Onnen Cave #2",
+    "description": "MAP[6]、海流の回廊前",
+    "contents": [],
+    "aliases": [
+      "RancorDen"
+    ],
+    "pos": "I-8"
+  },
+  {
+    "id": "basin_of_ifrit_hp1",
+    "name_jp": "イフリートの釜 #1",
+    "name_en": "Basin of Ifrit #1",
+    "description": "MAP[9]、氷の塊を使用する炎の壁の先灼熱の回廊前",
+    "contents": [],
+    "aliases": [
+      "IfritCldrn"
+    ],
+    "pos": "G-6"
+  },
+  {
+    "id": "ru_on_garden_hp1",
+    "name_jp": "ル・オンの庭 #1",
+    "name_en": "Ru On Garden #1",
+    "description": "ラ・ロフの劇場前（北、Ark Angel HMに対応）",
+    "contents": [],
+    "aliases": [
+      "RuAunGard"
+    ],
+    "pos": "H-4"
+  },
+  {
+    "id": "ru_on_garden_hp2",
+    "name_jp": "ル・オンの庭 #2",
+    "name_en": "Ru On Garden #2",
+    "description": "ラ・ロフの劇場前（南西、Ark Angel TTに対応）",
+    "contents": [],
+    "aliases": [
+      "RuAunGard"
+    ],
+    "pos": "F-11"
+  },
+  {
+    "id": "ru_on_garden_hp3",
+    "name_jp": "ル・オンの庭 #3",
+    "name_en": "Ru On Garden #3",
+    "description": "ラ・ロフの劇場前（北西、Ark Angel MRに対応）",
+    "contents": [],
+    "aliases": [
+      "RuAunGard"
+    ],
+    "pos": "E-7"
+  },
+  {
+    "id": "ru_on_garden_hp4",
+    "name_jp": "ル・オンの庭 #4",
+    "name_en": "Ru On Garden #4",
+    "description": "ラ・ロフの劇場前（北東、Ark Angel EVに対応）",
+    "contents": [],
+    "aliases": [
+      "RuAunGard"
+    ],
+    "pos": "K-7"
+  },
+  {
+    "id": "ru_on_garden_hp5",
+    "name_jp": "ル・オンの庭 #5",
+    "name_en": "Ru On Garden #5",
+    "description": "ラ・ロフの劇場前（南東、Ark Angel GKに対応）",
+    "contents": [],
+    "aliases": [
+      "RuAunGard"
+    ],
+    "pos": "J-11"
+  },
+  {
+    "id": "ru_abitau_temple_hp1",
+    "name_jp": "ル・アビタウ神殿 #1",
+    "name_en": "Ru Aibau Temple #1",
+    "description": "MAP[1]、宿星の座前",
+    "contents": [],
+    "aliases": [
+      "RuAvitau"
+    ],
+    "pos": "H-7"
+  },
+  {
+    "id": "mubarl_portolos_hp1",
+    "name_jp": "ムバルポロス新市街 #1",
+    "name_en": "Mubarl Portolos #1",
+    "description": "2716号採石場前",
+    "contents": [],
+    "aliases": [
+      "NewMoval"
+    ],
+    "pos": "M-9"
+  },
+  {
+    "id": "riverne_site_b01_hp1",
+    "name_jp": "リヴェーヌ岩塊群サイトB01 #1",
+    "name_en": "Rivenne Site B01 #1",
+    "description": "MAP[2]、帝龍の飛泉前",
+    "contents": [],
+    "aliases": [
+      "RiverneB01"
+    ],
+    "pos": "E-8"
+  },
+  {
+    "id": "riverne_site_a01_hp1",
+    "name_jp": "リヴェーヌ岩塊群サイトA01 #1",
+    "name_en": "Rivenne Site A01 #1",
+    "description": "MAP[1]の中央應龍来来のUnstable Displacementすぐ",
+    "contents": [],
+    "aliases": [
+      "RiverneA01"
+    ],
+    "pos": "I-9"
+  },
+  {
+    "id": "misareaux_coast_hp1",
+    "name_jp": "ミザレオ海岸 #1",
+    "name_en": "Mizaleo Coast #1",
+    "description": "Undulating Confluence近く",
+    "contents": [],
+    "aliases": [
+      "Misareaux"
+    ],
+    "pos": "G-5"
+  },
+  {
+    "id": "altaieu_hp1",
+    "name_jp": "アル・タユ #1",
+    "name_en": "Al'Taieu #1",
+    "description": "ホラの岩側、テメナス前",
+    "contents": [],
+    "aliases": [
+      "AlTaieu"
+    ],
+    "pos": "H-4"
+  },
+  {
+    "id": "altaieu_hp2",
+    "name_jp": "アル・タユ #2",
+    "name_en": "Al'Taieu #2",
+    "description": "デムの岩側、アポリオン前",
+    "contents": [],
+    "aliases": [
+      "AlTaieu"
+    ],
+    "pos": "E-6"
+  },
+  {
+    "id": "altaieu_hp3",
+    "name_jp": "アル・タユ #3",
+    "name_en": "Al'Taieu #3",
+    "description": "メアの岩側、アポリオン前",
+    "contents": [],
+    "aliases": [
+      "AlTaieu"
+    ],
+    "pos": "L-6"
+  },
+  {
+    "id": "phomiuna_palace_hp1",
+    "name_jp": "フ・ゾイの王宮 #1",
+    "name_en": "Phomiuna Palace #1",
+    "description": "MAP[1]、ル・メトの園入口前",
+    "contents": [],
+    "aliases": [
+      "HuXzoi"
+    ],
+    "pos": "H-8"
+  },
+  {
+    "id": "the_garden_of_ruhmet_hp1",
+    "name_jp": "ル・メトの園 #1",
+    "name_en": "Ru Met Garden #1",
+    "description": "MAP[1]、中央エレベーター前",
+    "contents": [],
+    "aliases": [
+      "RuHmet"
+    ],
+    "pos": "H-9"
+  },
+  {
+    "id": "mount_zhayolm_hp1",
+    "name_jp": "ゼオルム火山 #1",
+    "name_en": "Zeorum Volcano #1",
+    "description": "ナバゴ処刑場前",
+    "contents": [],
+    "aliases": [
+      "MtZhayolm"
+    ],
+    "pos": "D-8"
+  },
+  {
+    "id": "nashmau_hp1",
+    "name_jp": "ナシュモ #1",
+    "name_en": "Nashmau #1",
+    "description": "港階段下",
+    "contents": [],
+    "aliases": [
+      "Nashmau"
+    ],
+    "pos": "G-8"
+  },
+  {
+    "id": "caedarva_mire_hp1",
+    "name_jp": "カダーバの浮沼 #1",
+    "name_en": "Kaduruka Mire #1",
+    "description": "MAP[1]、タラッカ入江前",
+    "contents": [],
+    "aliases": [
+      "Caedarva"
+    ],
+    "pos": "E-9"
+  },
+  {
+    "id": "southern_san_doria_s_hp1",
+    "name_jp": "南サンドリア〔Ｓ〕 #1",
+    "name_en": "South San doria [S] #1",
+    "description": "西門（西ロンフォール出口）",
+    "contents": [],
+    "aliases": [
+      "SSandOria"
+    ],
+    "pos": "G-10"
+  },
+  {
+    "id": "bastok_markets_s_hp1",
+    "name_jp": "バストゥーク商業区〔Ｓ〕 #1",
+    "name_en": "Bastok Markets [S] #1",
+    "description": "クラウツ橋",
+    "contents": [],
+    "aliases": [
+      "BastokMark"
+    ],
+    "pos": "F-9"
+  },
+  {
+    "id": "windurst_waters_s_hp1",
+    "name_jp": "ウィンダス水の区〔Ｓ〕 #1",
+    "name_en": "Windurst Waters [S] #1",
+    "description": "MAP[1]（北マップ）、目の院裏手",
+    "contents": [],
+    "aliases": [
+      "WindWaters"
+    ],
+    "pos": "G-7"
+  },
+  {
+    "id": "xarcabard_s_s_hp1",
+    "name_jp": "ザルカバード〔Ｓ〕 #1",
+    "name_en": "Zalka Bad [S] #1",
+    "description": "ウォークオブエコーズ入口前",
+    "contents": [],
+    "aliases": [
+      "Xarcabard"
+    ],
+    "pos": "H-9"
+  },
+  {
+    "id": "zhayolm_remnants_s_hp1",
+    "name_jp": "ズヴァール城内郭〔Ｓ〕 #1",
+    "name_en": "Zhayolm Remnants [S] #1",
+    "description": "MAP[4]、王の間〔Ｓ〕前",
+    "contents": [],
+    "aliases": [
+      "ZvahlKeep"
+    ],
+    "pos": "G-7"
+  },
+  {
+    "id": "ceizak_battlegrounds_hp1",
+    "name_jp": "ケイザック古戦場 #1",
+    "name_en": "Keizack Ruins #1",
+    "description": "ワイルドキーパー・レイヴ入口前",
+    "contents": [],
+    "aliases": [
+      "Ceizak"
+    ],
+    "pos": "H-6"
+  },
+  {
+    "id": "foret_de_hennetiel_hp1",
+    "name_jp": "エヌティエル水林 #1",
+    "name_en": "En'tiel Woods #1",
+    "description": "ワイルドキーパー・レイヴ入口前",
+    "contents": [],
+    "aliases": [
+      "Hennetiel"
+    ],
+    "pos": "F-10"
+  },
+  {
+    "id": "morimar_basalt_fields_hp1",
+    "name_jp": "モリマー台地 #1",
+    "name_en": "Morimar Terrace #1",
+    "description": "ワイルドキーパー・レイヴ入口前",
+    "contents": [],
+    "aliases": [
+      "Morimar"
+    ],
+    "pos": "E-5"
+  },
+  {
+    "id": "yorcia_weald_hp1",
+    "name_jp": "ヨルシア森林 #1",
+    "name_en": "Yorcia Woods #1",
+    "description": "ワイルドキーパー・レイヴ入口前",
+    "contents": [],
+    "aliases": [
+      "Yorcia"
+    ],
+    "pos": "E-9"
+  },
+  {
+    "id": "marjami_ravine_hp1",
+    "name_jp": "マリアミ渓谷 #1",
+    "name_en": "Marjami Gorge #1",
+    "description": "ワイルドキーパー・レイヴ入口前",
+    "contents": [],
+    "aliases": [
+      "Marjami"
+    ],
+    "pos": "H-7"
+  },
+  {
+    "id": "kamihr_drifts_hp1",
+    "name_jp": "カミール山麓 #1",
+    "name_en": "Kamyrill Mountains #1",
+    "description": "ワイルドキーパー・レイヴ入口前",
+    "contents": [],
+    "aliases": [
+      "Kamihr"
+    ],
+    "pos": "I-7"
+  },
+  {
+    "id": "leafallia_hp1",
+    "name_jp": "リファーリア #1",
+    "name_en": "leafallia #1",
+    "description": "",
+    "contents": [],
+    "aliases": [
+      "Leafallia"
+    ],
+    "pos": "H-8"
+  },
+  {
+    "id": "rakaznar_inner_court_hp1",
+    "name_jp": "ラ・カザナル宮内郭 #1",
+    "name_en": "La Kazaral Inner Hoard #1",
+    "description": "MAP[2]、ラ・カザナル宮天守に続くエレベーター手前",
+    "contents": [],
+    "aliases": [
+      "InRaKaz"
+    ],
+    "pos": "I-8"
+  },
+  {
+    "id": "sg_northern_san_doria",
+    "name_jp": "北サンドリア サバイバルガイド",
+    "name_en": "Northern San d'Oria Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "E-8"
+  },
+  {
+    "id": "sg_bastok_mines",
+    "name_jp": "バストゥーク鉱山区 サバイバルガイド",
+    "name_en": "Bastok Mines Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "I-9"
+  },
+  {
+    "id": "sg_port_windurst",
+    "name_jp": "ウィンダス港 サバイバルガイド",
+    "name_en": "Port Windurst Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "B-5"
+  },
+  {
+    "id": "sg_rulude_gardens",
+    "name_jp": "ル・ルデの庭 サバイバルガイド",
+    "name_en": "Ru'Lude Gardens Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "I-10"
+  },
+  {
+    "id": "sg_tavnazian_safehold",
+    "name_jp": "タブナジア地下壕 サバイバルガイド",
+    "name_en": "Tavnazian Safehold Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "H-6"
+  },
+  {
+    "id": "sg_aht_urhgan_whitegate",
+    "name_jp": "アトルガン白門 サバイバルガイド",
+    "name_en": "Aht Urhgan Whitegate Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "L-8"
+  },
+  {
+    "id": "sg_eastern_adoulin",
+    "name_jp": "東アドゥリン サバイバルガイド",
+    "name_en": "Eastern Adoulin Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "H-11"
+  },
+  {
+    "id": "sg_west_ronfaure",
+    "name_jp": "西ロンフォール サバイバルガイド",
+    "name_en": "West Ronfaure Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "G-9"
+  },
+  {
+    "id": "sg_fort_ghelsba",
+    "name_jp": "ゲルスバ砦 サバイバルガイド",
+    "name_en": "Fort Ghelsba Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "F-8"
+  },
+  {
+    "id": "sg_bostaunieux_oubliette",
+    "name_jp": "ボストーニュ監獄 サバイバルガイド",
+    "name_en": "Bostaunieux Oubliette Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "I-6"
+  },
+  {
+    "id": "sg_king_ranperres_tomb",
+    "name_jp": "龍王ランペールの墓 サバイバルガイド",
+    "name_en": "King Ranperre's Tomb Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "G-5"
+  },
+  {
+    "id": "sg_la_theine_plateau",
+    "name_jp": "ラテーヌ高原 サバイバルガイド",
+    "name_en": "La Theine Plateau Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "M-8"
+  },
+  {
+    "id": "sg_valkurm_dunes",
+    "name_jp": "バルクルム砂丘 サバイバルガイド",
+    "name_en": "Valkurm Dunes Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "H-7"
+  },
+  {
+    "id": "sg_konschtat_highlands",
+    "name_jp": "コンシュタット高地 サバイバルガイド",
+    "name_en": "Konschtat Highlands Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "G-3"
+  },
+  {
+    "id": "sg_ordelles_caves",
+    "name_jp": "オルデール鍾乳洞 サバイバルガイド",
+    "name_en": "Ordelle's Caves Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "G-3"
+  },
+  {
+    "id": "sg_gusgen_mines",
+    "name_jp": "グスゲン鉱山 サバイバルガイド",
+    "name_en": "Gusgen Mines Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "H-9"
+  },
+  {
+    "id": "sg_carpenters_landing",
+    "name_jp": "ギルド桟橋 サバイバルガイド",
+    "name_en": "Carpenters' Landing Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "J-10"
+  },
+  {
+    "id": "sg_jugner_forest",
+    "name_jp": "ジャグナー森林 サバイバルガイド",
+    "name_en": "Jugner Forest Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "I-8"
+  },
+  {
+    "id": "sg_batallia_downs",
+    "name_jp": "バタリア丘陵 サバイバルガイド",
+    "name_en": "Batallia Downs Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "H-5"
+  },
+  {
+    "id": "sg_davoi",
+    "name_jp": "ダボイ サバイバルガイド",
+    "name_en": "Davoi Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "J-7"
+  },
+  {
+    "id": "sg_the_eldieme_necropolis",
+    "name_jp": "エルディーム古墳 サバイバルガイド",
+    "name_en": "The Eldieme Necropolis Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "J-9"
+  },
+  {
+    "id": "sg_north_gustaberg",
+    "name_jp": "北グスタベルグ サバイバルガイド",
+    "name_en": "North Gustaberg Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "D-10"
+  },
+  {
+    "id": "sg_korroloka_tunnel",
+    "name_jp": "コロロカの洞門 サバイバルガイド",
+    "name_en": "Korroloka Tunnel Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "C-9"
+  },
+  {
+    "id": "sg_dangruf_wadi",
+    "name_jp": "ダングルフの涸れ谷 サバイバルガイド",
+    "name_en": "Dangruf Wadi Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "K-10"
+  },
+  {
+    "id": "sg_zeruhn_mines",
+    "name_jp": "ツェールン鉱山 サバイバルガイド",
+    "name_en": "Zeruhn Mines Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "I-7"
+  },
+  {
+    "id": "sg_pashhow_marshlands",
+    "name_jp": "パシュハウ沼 サバイバルガイド",
+    "name_en": "Pashhow Marshlands Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "K-6"
+  },
+  {
+    "id": "sg_rolanberry_fields",
+    "name_jp": "ロランベリー耕地 サバイバルガイド",
+    "name_en": "Rolanberry Fields Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "G-6"
+  },
+  {
+    "id": "sg_beadeaux",
+    "name_jp": "ベドー サバイバルガイド",
+    "name_en": "Beadeaux Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(E-7)"
+  },
+  {
+    "id": "sg_crawlers_nest",
+    "name_jp": "クロウラーの巣 サバイバルガイド",
+    "name_en": "Crawlers' Nest Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(M-8)"
+  },
+  {
+    "id": "sg_west_sarutabaruta",
+    "name_jp": "西サルタバルタ サバイバルガイド",
+    "name_en": "West Sarutabaruta Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(H-6)"
+  },
+  {
+    "id": "sg_inner_horutoto_ruins",
+    "name_jp": "内ホルトト遺跡 サバイバルガイド",
+    "name_en": "Inner Horutoto Ruins Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(I-7)"
+  },
+  {
+    "id": "sg_bibiki_bay",
+    "name_jp": "ビビキー湾 サバイバルガイド",
+    "name_en": "Bibiki Bay Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(H-7)"
+  },
+  {
+    "id": "sg_tahrongi_canyon",
+    "name_jp": "タロンギ大峡谷 サバイバルガイド",
+    "name_en": "Tahrongi Canyon Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(G-4)"
+  },
+  {
+    "id": "sg_buburimu_peninsula",
+    "name_jp": "ブブリム半島 サバイバルガイド",
+    "name_en": "Buburimu Peninsula Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(E-7)"
+  },
+  {
+    "id": "sg_maze_of_shakhrami",
+    "name_jp": "シャクラミの地下迷宮 サバイバルガイド",
+    "name_en": "Maze of Shakhrami Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(C-9)"
+  },
+  {
+    "id": "sg_labyrinth_of_onzozo",
+    "name_jp": "オンゾゾの迷路 サバイバルガイド",
+    "name_en": "Labyrinth of Onzozo Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(G-11)"
+  },
+  {
+    "id": "sg_meriphataud_mountains",
+    "name_jp": "メリファト山地 サバイバルガイド",
+    "name_en": "Meriphataud Mountains Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(E-5)"
+  },
+  {
+    "id": "sg_sauromugue_champaign",
+    "name_jp": "ソロムグ原野 サバイバルガイド",
+    "name_en": "Sauromugue Champaign Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(J-10)"
+  },
+  {
+    "id": "sg_castle_oztroja",
+    "name_jp": "オズトロヤ城 サバイバルガイド",
+    "name_en": "Castle Oztroja Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(F-8)"
+  },
+  {
+    "id": "sg_garlaige_citadel",
+    "name_jp": "ガルレージュ要塞 サバイバルガイド",
+    "name_en": "Garlaige Citadel Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(G-7)"
+  },
+  {
+    "id": "sg_beaucedine_glacier",
+    "name_jp": "ボスディン氷河 サバイバルガイド",
+    "name_en": "Beaucedine Glacier Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(H-9)"
+  },
+  {
+    "id": "sg_ranguemont_pass",
+    "name_jp": "ラングモント峠 サバイバルガイド",
+    "name_en": "Ranguemont Pass Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(F-11)"
+  },
+  {
+    "id": "sg_castle_zvahl_baileys",
+    "name_jp": "ズヴァール城外郭 サバイバルガイド",
+    "name_en": "Castle Zvahl Baileys Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(J-8)"
+  },
+  {
+    "id": "sg_behemoths_dominion",
+    "name_jp": "ベヒーモスの縄張り サバイバルガイド",
+    "name_en": "Behemoth's Dominion Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(L-9)"
+  },
+  {
+    "id": "sg_lower_delkfutts_tower",
+    "name_jp": "デルクフの塔下層 サバイバルガイド",
+    "name_en": "Lower Delkfutt's Tower Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(H-10)"
+  },
+  {
+    "id": "sg_the_sanctuary_of_zitah",
+    "name_jp": "聖地ジ・タ サバイバルガイド",
+    "name_en": "The Sanctuary of Zi'Tah Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(H-9)"
+  },
+  {
+    "id": "sg_romaeve",
+    "name_jp": "ロ・メーヴ サバイバルガイド",
+    "name_en": "Ro'Maeve Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(H-6)"
+  },
+  {
+    "id": "sg_dragons_aery",
+    "name_jp": "龍のねぐら サバイバルガイド",
+    "name_en": "Dragon's Aery Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(F-9)"
+  },
+  {
+    "id": "sg_eastern_altepa_desert",
+    "name_jp": "東アルテパ砂漠 サバイバルガイド",
+    "name_en": "Eastern Altepa Desert Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(F-10)"
+  },
+  {
+    "id": "sg_western_altepa_desert",
+    "name_jp": "西アルテパ砂漠 サバイバルガイド",
+    "name_en": "Western Altepa Desert Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(K-7)"
+  },
+  {
+    "id": "sg_valley_of_sorrows",
+    "name_jp": "慟哭の谷 サバイバルガイド",
+    "name_en": "Valley of Sorrows Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(F-8)"
+  },
+  {
+    "id": "sg_kuftal_tunnel",
+    "name_jp": "クフタルの洞門 サバイバルガイド",
+    "name_en": "Kuftal Tunnel Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(H-9)"
+  },
+  {
+    "id": "sg_gustav_tunnel",
+    "name_jp": "グスタフの洞門 サバイバルガイド",
+    "name_en": "Gustav Tunnel Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(K-7)"
+  },
+  {
+    "id": "sg_yuhtunga_jungle",
+    "name_jp": "ユタンガ大森林 サバイバルガイド",
+    "name_en": "Yuhtunga Jungle Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(G-11)"
+  },
+  {
+    "id": "sg_sea_serpent_grotto",
+    "name_jp": "海蛇の岩窟 サバイバルガイド",
+    "name_en": "Sea Serpent Grotto Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(M-3)"
+  },
+  {
+    "id": "sg_yhoator_jungle",
+    "name_jp": "ヨアトル大森林 サバイバルガイド",
+    "name_en": "Yhoator Jungle Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(I-8)"
+  },
+  {
+    "id": "sg_temple_of_uggalepih",
+    "name_jp": "ウガレピ寺院 サバイバルガイド",
+    "name_en": "Temple of Uggalepih Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(F-6)"
+  },
+  {
+    "id": "sg_oldton_movalpolos",
+    "name_jp": "ムバルポロス旧市街 サバイバルガイド",
+    "name_en": "Oldton Movalpolos Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(F-10)"
+  },
+  {
+    "id": "sg_lufaise_meadows",
+    "name_jp": "ルフェーゼ野 サバイバルガイド",
+    "name_en": "Lufaise Meadows Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(E-8)"
+  },
+  {
+    "id": "sg_phomiuna_aqueducts",
+    "name_jp": "フォミュナ水道 サバイバルガイド",
+    "name_en": "Phomiuna Aqueducts Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(J-10)"
+  },
+  {
+    "id": "sg_sacrarium",
+    "name_jp": "礼拝堂 サバイバルガイド",
+    "name_en": "Sacrarium Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(E-7)"
+  },
+  {
+    "id": "sg_wajaom_woodlands",
+    "name_jp": "ワジャーム樹林 サバイバルガイド",
+    "name_en": "Wajaom Woodlands Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(C-8)"
+  },
+  {
+    "id": "sg_mamook",
+    "name_jp": "マムーク サバイバルガイド",
+    "name_en": "Mamook Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(J-7)"
+  },
+  {
+    "id": "sg_aydeewa_subterrane",
+    "name_jp": "エジワ蘿洞 サバイバルガイド",
+    "name_en": "Aydeewa Subterrane Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(H-10)"
+  },
+  {
+    "id": "sg_halvung",
+    "name_jp": "ハルブーン サバイバルガイド",
+    "name_en": "Halvung Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(N-5)"
+  },
+  {
+    "id": "sg_arrapago_reef",
+    "name_jp": "アラパゴ暗礁域 サバイバルガイド",
+    "name_en": "Arrapago Reef Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(H-11)"
+  },
+  {
+    "id": "sg_east_ronfaure_s",
+    "name_jp": "東ロンフォール〔Ｓ〕 サバイバルガイド",
+    "name_en": "East Ronfaure [S] Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(J-11)"
+  },
+  {
+    "id": "sg_jugner_forest_s",
+    "name_jp": "ジャグナー森林〔Ｓ〕 サバイバルガイド",
+    "name_en": "Jugner Forest [S] Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(G-11)"
+  },
+  {
+    "id": "sg_batallia_downs_s",
+    "name_jp": "バタリア丘陵〔Ｓ〕 サバイバルガイド",
+    "name_en": "Batallia Downs [S] Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(F-9)"
+  },
+  {
+    "id": "sg_the_eldieme_necropolis_s",
+    "name_jp": "エルディーム古墳〔Ｓ〕 サバイバルガイド",
+    "name_en": "The Eldieme Necropolis [S] Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(J-9)"
+  },
+  {
+    "id": "sg_north_gustaberg_s",
+    "name_jp": "北グスタベルグ〔Ｓ〕 サバイバルガイド",
+    "name_en": "North Gustaberg [S] Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(F-7)"
+  },
+  {
+    "id": "sg_grauberg_s",
+    "name_jp": "グロウベルグ〔Ｓ〕 サバイバルガイド",
+    "name_en": "Grauberg [S] Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(L-4)"
+  },
+  {
+    "id": "sg_vunkerl_inlet_s",
+    "name_jp": "ブンカール浦〔Ｓ〕 サバイバルガイド",
+    "name_en": "Vunkerl Inlet [S] Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(E-7)"
+  },
+  {
+    "id": "sg_pashhow_marshlands_s",
+    "name_jp": "パシュハウ沼〔Ｓ〕 サバイバルガイド",
+    "name_en": "Pashhow Marshlands [S] Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(K-10)"
+  },
+  {
+    "id": "sg_rolanberry_fields_s",
+    "name_jp": "ロランベリー耕地〔Ｓ〕 サバイバルガイド",
+    "name_en": "Rolanberry Fields [S] Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(I-14)"
+  },
+  {
+    "id": "sg_crawlers_nest_s",
+    "name_jp": "クロウラーの巣〔Ｓ〕 サバイバルガイド",
+    "name_en": "Crawlers' Nest [S] Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(M-8)"
+  },
+  {
+    "id": "sg_west_sarutabaruta_s",
+    "name_jp": "西サルタバルタ〔Ｓ〕 サバイバルガイド",
+    "name_en": "West Sarutabaruta [S] Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(I-5)"
+  },
+  {
+    "id": "sg_fort_karugo_narugo_s",
+    "name_jp": "カルゴナルゴ城砦〔Ｓ〕 サバイバルガイド",
+    "name_en": "Fort Karugo-Narugo [S] Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(I-5)"
+  },
+  {
+    "id": "sg_meriphataud_mountains_s",
+    "name_jp": "メリファト山地〔Ｓ〕 サバイバルガイド",
+    "name_en": "Meriphataud Mountains [S] Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(L-8)"
+  },
+  {
+    "id": "sg_sauromugue_champaign_s",
+    "name_jp": "ソロムグ原野〔Ｓ〕 サバイバルガイド",
+    "name_en": "Sauromugue Champaign [S] Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(K-11)"
+  },
+  {
+    "id": "sg_garlaige_citadel_s",
+    "name_jp": "ガルレージュ要塞〔Ｓ〕 サバイバルガイド",
+    "name_en": "Garlaige Citadel [S] Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(G-7)"
+  },
+  {
+    "id": "sg_beaucedine_glacier_s",
+    "name_jp": "ボスディン氷河〔Ｓ〕 サバイバルガイド",
+    "name_en": "Beaucedine Glacier [S] Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(G-7)"
+  },
+  {
+    "id": "sg_castle_zvahl_baileys_s",
+    "name_jp": "ズヴァール城外郭〔Ｓ〕 サバイバルガイド",
+    "name_en": "Castle Zvahl Baileys [S] Survival Guide",
+    "description": "サバイバルガイド",
+    "contents": [],
+    "aliases": [],
+    "pos": "(J-8)"
+  }
+]

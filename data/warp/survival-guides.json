@@ -1,0 +1,1427 @@
+[
+  {
+    "type": "survival_guide",
+    "to": "sg_northern_san_doria",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_bastok_mines",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_port_windurst",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_rulude_gardens",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_tavnazian_safehold",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_aht_urhgan_whitegate",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_eastern_adoulin",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_west_ronfaure",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_fort_ghelsba",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_bostaunieux_oubliette",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_king_ranperres_tomb",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_la_theine_plateau",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_valkurm_dunes",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_konschtat_highlands",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_ordelles_caves",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_gusgen_mines",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_carpenters_landing",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_jugner_forest",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_batallia_downs",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_davoi",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_the_eldieme_necropolis",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_north_gustaberg",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_korroloka_tunnel",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_dangruf_wadi",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_zeruhn_mines",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_pashhow_marshlands",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_rolanberry_fields",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_beadeaux",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_crawlers_nest",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_west_sarutabaruta",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_inner_horutoto_ruins",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_bibiki_bay",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_tahrongi_canyon",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_buburimu_peninsula",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_maze_of_shakhrami",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_labyrinth_of_onzozo",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_meriphataud_mountains",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_sauromugue_champaign",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_castle_oztroja",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_garlaige_citadel",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_beaucedine_glacier",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_ranguemont_pass",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_castle_zvahl_baileys",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_behemoths_dominion",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_lower_delkfutts_tower",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_the_sanctuary_of_zitah",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_romaeve",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_dragons_aery",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_eastern_altepa_desert",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_western_altepa_desert",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_rabao",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_terrigans_cape",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_valley_of_sorrows",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_kuftal_tunnel",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_gustav_tunnel",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_yuhtunga_jungle",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_sea_serpent_grotto",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_norg",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_kazham",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_yhoator_jungle",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_temple_of_uggalepih",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_ifrits_cauldron",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_ruaun_gardens",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_oldton_movalpolos",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_lufaise_meadows",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_misareaux_coast",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_phomiuna_aqueducts",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_sacrarium",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_wajaom_woodlands",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_mamook",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_aydeewa_subterrane",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_halvung",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_nashmau",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_caedarva_mire",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_arrapago_reef",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_southern_san_doria_s",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_east_ronfaure_s",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_jugner_forest_s",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_batallia_downs_s",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_the_eldieme_necropolis_s",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_bastok_markets_s",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_north_gustaberg_s",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_grauberg_s",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_vunkerl_inlet_s",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_pashhow_marshlands_s",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_rolanberry_fields_s",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_crawlers_nest_s",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_windurst_waters_s",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_west_sarutabaruta_s",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_fort_karugo_narugo_s",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_meriphataud_mountains_s",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_sauromugue_champaign_s",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_garlaige_citadel_s",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_beaucedine_glacier_s",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "survival_guide",
+    "to": "sg_castle_zvahl_baileys_s",
+    "cost": {
+      "Gil": 1000,
+      "Tab": 50
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  }
+]

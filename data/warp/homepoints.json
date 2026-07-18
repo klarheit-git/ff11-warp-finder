@@ -1,0 +1,1668 @@
+[
+  {
+    "type": "homepoint",
+    "to": "southern_san_doria_hp1_e",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "southern_san_doria_hp2_a",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "southern_san_doria_hp3_m",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "southern_san_doria_hp4",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "northern_san_doria_hp1_e",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "northern_san_doria_hp2",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "northern_san_doria_hp3_m",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "northern_san_doria_hp4",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "port_san_doria_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "port_san_doria_hp2_m",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "port_san_doria_hp3_a",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "bastok_mines_hp1_a",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "bastok_mines_hp2_m",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "bastok_mines_hp3",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "bastok_markets_hp1_e",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "bastok_markets_hp2_a",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "bastok_markets_hp3_m",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "bastok_markets_hp4",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "port_bastok_hp1_e",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "port_bastok_hp2_m",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "metalworks_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "metalworks_hp2",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "windurst_waters_hp1_e",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "windurst_waters_hp2_m",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "windurst_waters_hp3",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "windurst_waters_hp4",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "windurst_walls_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "windurst_walls_hp2_m",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "windurst_walls_hp3_a",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "port_windurst_hp2_e",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "port_windurst_hp3_m",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "windurst_woods_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "windurst_woods_hp2_e",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "windurst_woods_hp3_m",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "windurst_woods_hp4_a",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "windurst_woods_hp5",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "rulude_gardens_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "rulude_gardens_hp2_m",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "rulude_gardens_hp3_a",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "upper_jeuno_hp1_e",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "upper_jeuno_hp2_m",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "upper_jeuno_hp3_a",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "lower_jeuno_hp1_e",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "lower_jeuno_hp2_m",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "port_jeuno_hp1_e",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "port_jeuno_hp2_m",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "tavnazian_safehold_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "tavnazian_safehold_hp2",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "tavnazian_safehold_hp3",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "aht_urhgan_whitegate_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "aht_urhgan_whitegate_hp2",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "aht_urhgan_whitegate_hp3",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "aht_urhgan_whitegate_hp4",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "bhaflau_thickets_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "western_adoulin_hp1_a",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "western_adoulin_hp2",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "eastern_adoulin_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "eastern_adoulin_hp2",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "yughott_grotto_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "selbina_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "palborough_mines_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "giddeus_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "toraimarai_canal_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "mhaura_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "attohwa_chasm_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "feiyin_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "feiyin_hp2",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "psoxja_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "castle_zvahl_baileys_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "uleguerand_range_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "uleguerand_range_hp2",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "uleguerand_range_hp3",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "uleguerand_range_hp4",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "uleguerand_range_hp5",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "upper_delkfutts_tower_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "qufim_island_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "boyahda_tree_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "rabao_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "rabao_hp2",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "quicksand_caves_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "quicksand_caves_hp2",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "cape_teriggan_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "kazham_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "norg_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "norg_hp2",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "den_of_rancor_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "den_of_rancor_hp2",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "ifrits_cauldron_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "ruaun_gardens_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "ruaun_gardens_hp2",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "ruaun_gardens_hp3",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "ruaun_gardens_hp4",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "ruaun_gardens_hp5",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "the_shrine_of_ruavitau_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "newton_movalpolos_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "riverne_site_b01_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "riverne_site_a01_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "misareaux_coast_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "altaieu_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "altaieu_hp2",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "altaieu_hp3",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "phomiuna_palace_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "the_garden_of_ruhmet_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "mount_zhayolm_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "nashmau_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "caedarva_mire_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "southern_san_doria_s_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "bastok_markets_s_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "windurst_waters_s_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "xarcabard_s_s_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "castle_zvahl_keep_s_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "ceizak_battlegrounds_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "foret_de_hennetiel_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "morimar_basalt_fields_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "yorcia_weald_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "marjami_ravine_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "kamihr_drifts_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "leafallia_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  },
+  {
+    "type": "homepoint",
+    "to": "rakaznar_inner_court_hp1",
+    "cost": {
+      "Gil": 500
+    },
+    "time": 1,
+    "conditions_jp": [
+      "開通"
+    ],
+    "conditions_en": [
+      "Activated"
+    ]
+  }
+]

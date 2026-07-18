@@ -1,0 +1,2633 @@
+[
+    {
+        "id": "southern_san_doria",
+        "name_jp": "南サンドリア",
+        "name_en": "Southern San d'Oria",
+        "region": "サンドリア王国",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "northern_san_doria",
+        "name_jp": "北サンドリア",
+        "name_en": "Northern San d'Oria",
+        "region": "サンドリア王国",
+        "warp_services": [
+            "homepoint",
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "port_san_doria",
+        "name_jp": "サンドリア港",
+        "name_en": "Port San d'Oria",
+        "region": "サンドリア王国",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "chateau_doraguille",
+        "name_jp": "ドラギーユ城",
+        "name_en": "Chateau d'Oraguille",
+        "region": "サンドリア王国",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "bastok_mines",
+        "name_jp": "バストゥーク鉱山区",
+        "name_en": "Bastok Mines",
+        "region": "バストゥーク共和国",
+        "warp_services": [
+            "homepoint",
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "bastok_markets",
+        "name_jp": "バストゥーク商業区",
+        "name_en": "Bastok Markets",
+        "region": "バストゥーク共和国",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "port_bastok",
+        "name_jp": "バストゥーク港",
+        "name_en": "Port Bastok",
+        "region": "バストゥーク共和国",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "metalworks",
+        "name_jp": "大工房",
+        "name_en": "Metalworks",
+        "region": "バストゥーク共和国",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "windurst_waters",
+        "name_jp": "ウィンダス水の区",
+        "name_en": "Windurst Waters",
+        "region": "ウィンダス連邦",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "windurst_walls",
+        "name_jp": "ウィンダス石の区",
+        "name_en": "Windurst Walls",
+        "region": "ウィンダス連邦",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "port_windurst",
+        "name_jp": "ウィンダス港",
+        "name_en": "Port Windurst",
+        "region": "ウィンダス連邦",
+        "warp_services": [
+            "homepoint",
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "windurst_woods",
+        "name_jp": "ウィンダス森の区",
+        "name_en": "Windurst Woods",
+        "region": "ウィンダス連邦",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "heavens_tower",
+        "name_jp": "天の塔",
+        "name_en": "Heavens Tower",
+        "region": "ウィンダス連邦",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "rulude_gardens",
+        "name_jp": "ル・ルデの庭",
+        "name_en": "Ru'Lude Gardens",
+        "region": "ジュノ大公国",
+        "warp_services": [
+            "homepoint",
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "upper_jeuno",
+        "name_jp": "ジュノ上層",
+        "name_en": "Upper Jeuno",
+        "region": "ジュノ大公国",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "lower_jeuno",
+        "name_jp": "ジュノ下層",
+        "name_en": "Lower Jeuno",
+        "region": "ジュノ大公国",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "port_jeuno",
+        "name_jp": "ジュノ港",
+        "name_en": "Port Jeuno",
+        "region": "ジュノ大公国",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "al_zahbi",
+        "name_jp": "アルザビ",
+        "name_en": "Al Zahbi",
+        "region": "西アトルガン地方",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "aht_urhgan_whitegate",
+        "name_jp": "アトルガン白門",
+        "name_en": "Aht Urhgan Whitegate",
+        "region": "西アトルガン地方",
+        "warp_services": [
+            "homepoint",
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "bhaflau_thickets",
+        "name_jp": "バフラウ段丘",
+        "name_en": "Bhaflau Thickets",
+        "region": "西アトルガン地方",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "the_colosseum",
+        "name_jp": "コロセウム",
+        "name_en": "The Colosseum",
+        "region": "西アトルガン地方",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "western_adoulin",
+        "name_jp": "西アドゥリン",
+        "name_en": "Western Adoulin",
+        "region": "アドゥリン諸島",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "eastern_adoulin",
+        "name_jp": "東アドゥリン",
+        "name_en": "Eastern Adoulin",
+        "region": "アドゥリン諸島",
+        "warp_services": [
+            "homepoint",
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "rala_waterways",
+        "name_jp": "ララ水道",
+        "name_en": "Rala Waterways",
+        "region": "アドゥリン諸島",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "rala_waterways_u",
+        "name_jp": "ララ水道〔Ｕ〕",
+        "name_en": "Rala Waterways [U]",
+        "region": "アドゥリン諸島",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "mog_garden",
+        "name_jp": "モグガーデン",
+        "name_en": "Mog Garden",
+        "region": "アドゥリン諸島",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "celennia_memorial_library",
+        "name_jp": "セレニア図書館",
+        "name_en": "Celennia Memorial Library",
+        "region": "アドゥリン諸島",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "silver_knife",
+        "name_jp": "シルバー・ナイフ",
+        "name_en": "Silver Knife",
+        "region": "アドゥリン諸島",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "west_ronfaure",
+        "name_jp": "西ロンフォール",
+        "name_en": "West Ronfaure",
+        "region": "ロンフォール",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "east_ronfaure",
+        "name_jp": "東ロンフォール",
+        "name_en": "East Ronfaure",
+        "region": "ロンフォール",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "ghelsba_outpost",
+        "name_jp": "ゲルスバ野営陣",
+        "name_en": "Ghelsba Outpost",
+        "region": "ロンフォール",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "fort_ghelsba",
+        "name_jp": "ゲルスバ砦",
+        "name_en": "Fort Ghelsba",
+        "region": "ロンフォール",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "yughott_grotto",
+        "name_jp": "ユグホトの岩屋",
+        "name_en": "Yughott Grotto",
+        "region": "ロンフォール",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "horlais_peak",
+        "name_jp": "ホルレーの岩峰",
+        "name_en": "Horlais Peak",
+        "region": "ロンフォール",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "king_ranperres_tomb",
+        "name_jp": "龍王ランペールの墓",
+        "name_en": "King Ranperre's Tomb",
+        "region": "ロンフォール",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "bostaunieux_oubliette",
+        "name_jp": "ボストーニュ監獄",
+        "name_en": "Bostaunieux Oubliette",
+        "region": "ロンフォール",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "valkurm_dunes",
+        "name_jp": "バルクルム砂丘",
+        "name_en": "Valkurm Dunes",
+        "region": "ザルクヘイム",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "konschtat_highlands",
+        "name_jp": "コンシュタット高地",
+        "name_en": "Konschtat Highlands",
+        "region": "ザルクヘイム",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "gusgen_mines",
+        "name_jp": "グスゲン鉱山",
+        "name_en": "Gusgen Mines",
+        "region": "ザルクヘイム",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "la_theine_plateau",
+        "name_jp": "ラテーヌ高原",
+        "name_en": "La Theine Plateau",
+        "region": "ザルクヘイム",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "ordelles_caves",
+        "name_jp": "オルデール鍾乳洞",
+        "name_en": "Ordelle's Caves",
+        "region": "ザルクヘイム",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "selbina",
+        "name_jp": "セルビナ",
+        "name_en": "Selbina",
+        "region": "ザルクヘイム",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "jugner_forest",
+        "name_jp": "ジャグナー森林",
+        "name_en": "Jugner Forest",
+        "region": "ノルバレン",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "batallia_downs",
+        "name_jp": "バタリア丘陵",
+        "name_en": "Batallia Downs",
+        "region": "ノルバレン",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "the_eldieme_necropolis",
+        "name_jp": "エルディーム古墳",
+        "name_en": "The Eldieme Necropolis",
+        "region": "ノルバレン",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "davoi",
+        "name_jp": "ダボイ",
+        "name_en": "Davoi",
+        "region": "ノルバレン",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "monastic_cavern",
+        "name_jp": "修道窟",
+        "name_en": "Monastic Cavern",
+        "region": "ノルバレン",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "phanauet_channel",
+        "name_jp": "ファノエ運河",
+        "name_en": "Phanauet Channel",
+        "region": "ノルバレン",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "carpenters_landing",
+        "name_jp": "ギルド桟橋",
+        "name_en": "Carpenters' Landing",
+        "region": "ノルバレン",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "north_gustaberg",
+        "name_jp": "北グスタベルグ",
+        "name_en": "North Gustaberg",
+        "region": "グスタベルグ",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "south_gustaberg",
+        "name_jp": "南グスタベルグ",
+        "name_en": "South Gustaberg",
+        "region": "グスタベルグ",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "zeruhn_mines",
+        "name_jp": "ツェールン鉱山",
+        "name_en": "Zeruhn Mines",
+        "region": "グスタベルグ",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "palborough_mines",
+        "name_jp": "パルブロ鉱山",
+        "name_en": "Palborough Mines",
+        "region": "グスタベルグ",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "waughroon_shrine",
+        "name_jp": "ワールンの祠",
+        "name_en": "Waughroon Shrine",
+        "region": "グスタベルグ",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "dangruf_wadi",
+        "name_jp": "ダングルフの涸れ谷",
+        "name_en": "Dangruf Wadi",
+        "region": "グスタベルグ",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "korroloka_tunnel",
+        "name_jp": "コロロカの洞門",
+        "name_en": "Korroloka Tunnel",
+        "region": "グスタベルグ",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "pashhow_marshlands",
+        "name_jp": "パシュハウ沼",
+        "name_en": "Pashhow Marshlands",
+        "region": "デルフラント",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "rolanberry_fields",
+        "name_jp": "ロランベリー耕地",
+        "name_en": "Rolanberry Fields",
+        "region": "デルフラント",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "crawlers_nest",
+        "name_jp": "クロウラーの巣",
+        "name_en": "Crawlers' Nest",
+        "region": "デルフラント",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "beadeaux",
+        "name_jp": "ベドー",
+        "name_en": "Beadeaux",
+        "region": "デルフラント",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "qulun_dome",
+        "name_jp": "クゥルンの大伽藍",
+        "name_en": "Qulun Dome",
+        "region": "デルフラント",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "west_sarutabaruta",
+        "name_jp": "西サルタバルタ",
+        "name_en": "West Sarutabaruta",
+        "region": "サルタバルタ",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "east_sarutabaruta",
+        "name_jp": "東サルタバルタ",
+        "name_en": "East Sarutabaruta",
+        "region": "サルタバルタ",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "giddeus",
+        "name_jp": "ギデアス",
+        "name_en": "Giddeus",
+        "region": "サルタバルタ",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "balgas_dais",
+        "name_jp": "バルガの舞台",
+        "name_en": "Balga's Dais",
+        "region": "サルタバルタ",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "toraimarai_canal",
+        "name_jp": "トライマライ水路",
+        "name_en": "Toraimarai Canal",
+        "region": "サルタバルタ",
+        "warp_services": [
+            "homepoint",
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "full_moon_fountain",
+        "name_jp": "満月の泉",
+        "name_en": "Full Moon Fountain",
+        "region": "サルタバルタ",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "inner_horutoto_ruins",
+        "name_jp": "内ホルトト遺跡",
+        "name_en": "Inner Horutoto Ruins",
+        "region": "サルタバルタ",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "outer_horutoto_ruins",
+        "name_jp": "外ホルトト遺跡",
+        "name_en": "Outer Horutoto Ruins",
+        "region": "サルタバルタ",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "buburimu_peninsula",
+        "name_jp": "ブブリム半島",
+        "name_en": "Buburimu Peninsula",
+        "region": "コルシュシュ",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "tahrongi_canyon",
+        "name_jp": "タロンギ大峡谷",
+        "name_en": "Tahrongi Canyon",
+        "region": "コルシュシュ",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "maze_of_shakhrami",
+        "name_jp": "シャクラミの地下迷宮",
+        "name_en": "Maze of Shakhrami",
+        "region": "コルシュシュ",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "mhaura",
+        "name_jp": "マウラ",
+        "name_en": "Mhaura",
+        "region": "コルシュシュ",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "labyrinth_of_onzozo",
+        "name_jp": "オンゾゾの迷路",
+        "name_en": "Labyrinth of Onzozo",
+        "region": "コルシュシュ",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "manaclipper",
+        "name_jp": "マナクリッパー",
+        "name_en": "Manaclipper",
+        "region": "コルシュシュ",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "bibiki_bay",
+        "name_jp": "ビビキー湾",
+        "name_en": "Bibiki Bay",
+        "region": "コルシュシュ",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "meriphataud_mountains",
+        "name_jp": "メリファト山地",
+        "name_en": "Meriphataud Mountains",
+        "region": "アラゴーニュ",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "sauromugue_champaign",
+        "name_jp": "ソロムグ原野",
+        "name_en": "Sauromugue Champaign",
+        "region": "アラゴーニュ",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "garlaige_citadel",
+        "name_jp": "ガルレージュ要塞",
+        "name_en": "Garlaige Citadel",
+        "region": "アラゴーニュ",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "castle_oztroja",
+        "name_jp": "オズトロヤ城",
+        "name_en": "Castle Oztroja",
+        "region": "アラゴーニュ",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "altar_room",
+        "name_jp": "祭壇の間",
+        "name_en": "Altar Room",
+        "region": "アラゴーニュ",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "attohwa_chasm",
+        "name_jp": "アットワ地溝",
+        "name_en": "Attohwa Chasm",
+        "region": "アラゴーニュ",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "boneyard_gully",
+        "name_jp": "千骸谷",
+        "name_en": "Boneyard Gully",
+        "region": "アラゴーニュ",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "beaucedine_glacier",
+        "name_jp": "ボスディン氷河",
+        "name_en": "Beaucedine Glacier",
+        "region": "フォルガンディ",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "ranguemont_pass",
+        "name_jp": "ラングモント峠",
+        "name_en": "Ranguemont Pass",
+        "region": "フォルガンディ",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "feiyin",
+        "name_jp": "フェ・イン",
+        "name_en": "Fei'Yin",
+        "region": "フォルガンディ",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "qubia_arena",
+        "name_jp": "ク・ビアの闘技場",
+        "name_en": "Qu'Bia Arena",
+        "region": "フォルガンディ",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "cloister_of_frost",
+        "name_jp": "凍結の回廊",
+        "name_en": "Cloister of Frost",
+        "region": "フォルガンディ",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "psoxja",
+        "name_jp": "ソ・ジヤ",
+        "name_en": "Pso'Xja",
+        "region": "フォルガンディ",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "the_shrouded_maw",
+        "name_jp": "異界の口",
+        "name_en": "The Shrouded Maw",
+        "region": "フォルガンディ",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "xarcabard",
+        "name_jp": "ザルカバード",
+        "name_en": "Xarcabard",
+        "region": "バルドニア",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "castle_zvahl_baileys",
+        "name_jp": "ズヴァール城外郭",
+        "name_en": "Castle Zvahl Baileys",
+        "region": "バルドニア",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "castle_zvahl_keep",
+        "name_jp": "ズヴァール城内郭",
+        "name_en": "Castle Zvahl Keep",
+        "region": "バルドニア",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "throne_room",
+        "name_jp": "王の間",
+        "name_en": "Throne Room",
+        "region": "バルドニア",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "uleguerand_range",
+        "name_jp": "ウルガラン山脈",
+        "name_en": "Uleguerand Range",
+        "region": "バルドニア",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "bearclaw_pinnacle",
+        "name_jp": "熊爪嶽",
+        "name_en": "Bearclaw Pinnacle",
+        "region": "バルドニア",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "qufim_island",
+        "name_jp": "クフィム島",
+        "name_en": "Qufim Island",
+        "region": "クフィム",
+        "warp_services": [
+            "homepoint",
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "behemoths_dominion",
+        "name_jp": "ベヒーモスの縄張り",
+        "name_en": "Behemoth's Dominion",
+        "region": "クフィム",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "upper_delkfutts_tower",
+        "name_jp": "デルクフの塔上層",
+        "name_en": "Upper Delkfutt's Tower",
+        "region": "クフィム",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "stellar_fulcrum",
+        "name_jp": "天輪の場",
+        "name_en": "Stellar Fulcrum",
+        "region": "クフィム",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "middle_delkfutts_tower",
+        "name_jp": "デルクフの塔中層",
+        "name_en": "Middle Delkfutt's Tower",
+        "region": "クフィム",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "lower_delkfutts_tower",
+        "name_jp": "デルクフの塔下層",
+        "name_en": "Lower Delkfutt's Tower",
+        "region": "クフィム",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "the_sanctuary_of_zitah",
+        "name_jp": "聖地ジ・タ",
+        "name_en": "The Sanctuary of Zi'Tah",
+        "region": "リ・テロア",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "romaeve",
+        "name_jp": "ロ・メーヴ",
+        "name_en": "Ro'Maeve",
+        "region": "リ・テロア",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "hall_of_the_gods",
+        "name_jp": "神々の間",
+        "name_en": "Hall of the Gods",
+        "region": "リ・テロア",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "the_boyahda_tree",
+        "name_jp": "ボヤーダ樹",
+        "name_en": "The Boyahda Tree",
+        "region": "リ・テロア",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "cloister_of_storms",
+        "name_jp": "雷鳴の回廊",
+        "name_en": "Cloister of Storms",
+        "region": "リ・テロア",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "dragons_aery",
+        "name_jp": "龍のねぐら",
+        "name_en": "Dragon's Aery",
+        "region": "リ・テロア",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "eastern_altepa_desert",
+        "name_jp": "東アルテパ砂漠",
+        "name_en": "Eastern Altepa Desert",
+        "region": "クゾッツ",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "western_altepa_desert",
+        "name_jp": "西アルテパ砂漠",
+        "name_en": "Western Altepa Desert",
+        "region": "クゾッツ",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "rabao",
+        "name_jp": "ラバオ",
+        "name_en": "Rabao",
+        "region": "クゾッツ",
+        "warp_services": [
+            "homepoint",
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "quicksand_caves",
+        "name_jp": "流砂洞",
+        "name_en": "Quicksand Caves",
+        "region": "クゾッツ",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "chamber_of_oracles",
+        "name_jp": "宣託の間",
+        "name_en": "Chamber of Oracles",
+        "region": "クゾッツ",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "cloister_of_tremors",
+        "name_jp": "震動の回廊",
+        "name_en": "Cloister of Tremors",
+        "region": "クゾッツ",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "cape_teriggan",
+        "name_jp": "テリガン岬",
+        "name_en": "Cape Teriggan",
+        "region": "ヴォルボー",
+        "warp_services": [
+            "homepoint",
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "cloister_of_gales",
+        "name_jp": "突風の回廊",
+        "name_en": "Cloister of Gales",
+        "region": "ヴォルボー",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "kuftal_tunnel",
+        "name_jp": "クフタルの洞門",
+        "name_en": "Kuftal Tunnel",
+        "region": "ヴォルボー",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "valley_of_sorrows",
+        "name_jp": "慟哭の谷",
+        "name_en": "Valley of Sorrows",
+        "region": "ヴォルボー",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "gustav_tunnel",
+        "name_jp": "グスタフの洞門",
+        "name_en": "Gustav Tunnel",
+        "region": "ヴォルボー",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "yuhtunga_jungle",
+        "name_jp": "ユタンガ大森林",
+        "name_en": "Yuhtunga Jungle",
+        "region": "低地エルシモ",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "kazham",
+        "name_jp": "カザム",
+        "name_en": "Kazham",
+        "region": "低地エルシモ",
+        "warp_services": [
+            "homepoint",
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "norg",
+        "name_jp": "ノーグ",
+        "name_en": "Norg",
+        "region": "低地エルシモ",
+        "warp_services": [
+            "homepoint",
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "sea_serpent_grotto",
+        "name_jp": "海蛇の岩窟",
+        "name_en": "Sea Serpent Grotto",
+        "region": "低地エルシモ",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "yhoator_jungle",
+        "name_jp": "ヨアトル大森林",
+        "name_en": "Yhoator Jungle",
+        "region": "高地エルシモ",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "temple_of_uggalepih",
+        "name_jp": "ウガレピ寺院",
+        "name_en": "Temple of Uggalepih",
+        "region": "高地エルシモ",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "den_of_rancor",
+        "name_jp": "怨念洞",
+        "name_en": "Den of Rancor",
+        "region": "高地エルシモ",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "sacrificial_chamber",
+        "name_jp": "生贄の間",
+        "name_en": "Sacrificial Chamber",
+        "region": "高地エルシモ",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "cloister_of_tides",
+        "name_jp": "海流の回廊",
+        "name_en": "Cloister of Tides",
+        "region": "高地エルシモ",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "ifrits_cauldron",
+        "name_jp": "イフリートの釜",
+        "name_en": "Ifrit's Cauldron",
+        "region": "高地エルシモ",
+        "warp_services": [
+            "homepoint",
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "cloister_of_flames",
+        "name_jp": "灼熱の回廊",
+        "name_en": "Cloister of Flames",
+        "region": "高地エルシモ",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "ruaun_gardens",
+        "name_jp": "ル・オンの庭",
+        "name_en": "Ru'Aun Gardens",
+        "region": "トゥー・リア",
+        "warp_services": [
+            "homepoint",
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "laloff_amphitheater",
+        "name_jp": "ラ・ロフの劇場",
+        "name_en": "La'Loff Amphitheater",
+        "region": "トゥー・リア",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "velugannon_palace",
+        "name_jp": "ヴェ・ルガノン宮殿",
+        "name_en": "Ve'Lugannon Palace",
+        "region": "トゥー・リア",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "the_shrine_of_ruavitau",
+        "name_jp": "ル・アビタウ神殿",
+        "name_en": "The Shrine of Ru'Avitau",
+        "region": "トゥー・リア",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "the_celestial_nexus",
+        "name_jp": "宿星の座",
+        "name_en": "The Celestial Nexus",
+        "region": "トゥー・リア",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "dynamis_san_doria",
+        "name_jp": "デュナミス-サンドリア",
+        "name_en": "Dynamis - San d'Oria",
+        "region": "デュナミス",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "dynamis_bastok",
+        "name_jp": "デュナミス-バストゥーク",
+        "name_en": "Dynamis - Bastok",
+        "region": "デュナミス",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "dynamis_windurst",
+        "name_jp": "デュナミス-ウィンダス",
+        "name_en": "Dynamis - Windurst",
+        "region": "デュナミス",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "dynamis_jeuno",
+        "name_jp": "デュナミス-ジュノ",
+        "name_en": "Dynamis - Jeuno",
+        "region": "デュナミス",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "dynamis_beaucedine",
+        "name_jp": "デュナミス-ボスディン",
+        "name_en": "Dynamis - Beaucedine",
+        "region": "デュナミス",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "dynamis_xarcabard",
+        "name_jp": "デュナミス-ザルカバード",
+        "name_en": "Dynamis - Xarcabard",
+        "region": "デュナミス",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "dynamis_valkurm",
+        "name_jp": "デュナミス-バルクルム",
+        "name_en": "Dynamis - Valkurm",
+        "region": "デュナミス",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "dynamis_buburimu",
+        "name_jp": "デュナミス-ブブリム",
+        "name_en": "Dynamis - Buburimu",
+        "region": "デュナミス",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "dynamis_qufim",
+        "name_jp": "デュナミス-クフィム",
+        "name_en": "Dynamis - Qufim",
+        "region": "デュナミス",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "dynamis_tavnazia",
+        "name_jp": "デュナミス-タブナジア",
+        "name_en": "Dynamis - Tavnazia",
+        "region": "デュナミス",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "dynamis_san_doria_d",
+        "name_jp": "デュナミス-サンドリア〔Ｄ〕",
+        "name_en": "Dynamis - San d'Oria [D]",
+        "region": "デュナミス",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "dynamis_bastok_d",
+        "name_jp": "デュナミス-バストゥーク〔Ｄ〕",
+        "name_en": "Dynamis - Bastok [D]",
+        "region": "デュナミス",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "dynamis_windurst_d",
+        "name_jp": "デュナミス-ウィンダス〔Ｄ〕",
+        "name_en": "Dynamis - Windurst [D]",
+        "region": "デュナミス",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "dynamis_jeuno_d",
+        "name_jp": "デュナミス-ジュノ〔Ｄ〕",
+        "name_en": "Dynamis - Jeuno [D]",
+        "region": "デュナミス",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "oldton_movalpolos",
+        "name_jp": "ムバルポロス旧市街",
+        "name_en": "Oldton Movalpolos",
+        "region": "ムバルポロス",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "newton_movalpolos",
+        "name_jp": "ムバルポロス新市街",
+        "name_en": "Newton Movalpolos",
+        "region": "ムバルポロス",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "mine_shaft_2716",
+        "name_jp": "2716号採石場",
+        "name_en": "Mine Shaft #2716",
+        "region": "ムバルポロス",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "tavnazian_safehold",
+        "name_jp": "タブナジア地下壕",
+        "name_en": "Tavnazian Safehold",
+        "region": "タブナジア侯国",
+        "warp_services": [
+            "homepoint",
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "lufaise_meadows",
+        "name_jp": "ルフェーゼ野",
+        "name_en": "Lufaise Meadows",
+        "region": "タブナジア群島",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "misareaux_coast",
+        "name_jp": "ミザレオ海岸",
+        "name_en": "Misareaux Coast",
+        "region": "タブナジア群島",
+        "warp_services": [
+            "homepoint",
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "sealions_den",
+        "name_jp": "海獅子の巣窟",
+        "name_en": "Sealion's Den",
+        "region": "タブナジア群島",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "phomiuna_aqueducts",
+        "name_jp": "フォミュナ水道",
+        "name_en": "Phomiuna Aqueducts",
+        "region": "タブナジア群島",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "sacrarium",
+        "name_jp": "礼拝堂",
+        "name_en": "Sacrarium",
+        "region": "タブナジア群島",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "riverne_site_b01",
+        "name_jp": "リヴェーヌ岩塊群サイトB01",
+        "name_en": "Riverne - Site #B01",
+        "region": "タブナジア群島",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "riverne_site_a01",
+        "name_jp": "リヴェーヌ岩塊群サイトA01",
+        "name_en": "Riverne - Site #A01",
+        "region": "タブナジア群島",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "monarch_linn",
+        "name_jp": "帝龍の飛泉",
+        "name_en": "Monarch Linn",
+        "region": "タブナジア群島",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "hall_of_transference",
+        "name_jp": "転移の間",
+        "name_en": "Hall of Transference",
+        "region": "プロミヴォン",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "promyvion_holla",
+        "name_jp": "プロミヴォン-ホラ",
+        "name_en": "Promyvion - Holla",
+        "region": "プロミヴォン",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "spire_of_holla",
+        "name_jp": "ホラの塔",
+        "name_en": "Spire of Holla",
+        "region": "プロミヴォン",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "promyvion_dem",
+        "name_jp": "プロミヴォン-デム",
+        "name_en": "Promyvion - Dem",
+        "region": "プロミヴォン",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "spire_of_dem",
+        "name_jp": "デムの塔",
+        "name_en": "Spire of Dem",
+        "region": "プロミヴォン",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "promyvion_mea",
+        "name_jp": "プロミヴォン-メア",
+        "name_en": "Promyvion - Mea",
+        "region": "プロミヴォン",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "spire_of_mea",
+        "name_jp": "メアの塔",
+        "name_en": "Spire of Mea",
+        "region": "プロミヴォン",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "promyvion_vahzl",
+        "name_jp": "プロミヴォン-ヴァズ",
+        "name_en": "Promyvion - Vahzl",
+        "region": "プロミヴォン",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "spire_of_vahzl",
+        "name_jp": "ヴァズの塔",
+        "name_en": "Spire of Vahzl",
+        "region": "プロミヴォン",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "altaieu",
+        "name_jp": "アル・タユ",
+        "name_en": "Al'Taieu",
+        "region": "ルモリア",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "grand_palace_of_huxzoi",
+        "name_jp": "フ・ゾイの王宮",
+        "name_en": "Grand Palace of Hu'Xzoi",
+        "region": "ルモリア",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "the_garden_of_ruhmet",
+        "name_jp": "ル・メトの園",
+        "name_en": "The Garden of Ru'Hmet",
+        "region": "ルモリア",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "empyreal_paradox",
+        "name_jp": "天象の鎖",
+        "name_en": "Empyreal Paradox",
+        "region": "ルモリア",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "temenos",
+        "name_jp": "テメナス",
+        "name_en": "Temenos",
+        "region": "リンバス",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "apollyon",
+        "name_jp": "アポリオン",
+        "name_en": "Apollyon",
+        "region": "リンバス",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "mamook",
+        "name_jp": "マムーク",
+        "name_en": "Mamook",
+        "region": "マムージャ蕃国",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "wajaom_woodlands",
+        "name_jp": "ワジャーム樹林",
+        "name_en": "Wajaom Woodlands",
+        "region": "マムージャ蕃国",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "jade_sepulcher",
+        "name_jp": "翡翠廟",
+        "name_en": "Jade Sepulcher",
+        "region": "マムージャ蕃国",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "mamool_ja_training_grounds",
+        "name_jp": "マムージャ兵訓練所",
+        "name_en": "Mamool Ja Training Grounds",
+        "region": "マムージャ蕃国",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "aydeewa_subterrane",
+        "name_jp": "エジワ蘿洞",
+        "name_en": "Aydeewa Subterrane",
+        "region": "マムージャ蕃国",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "halvung",
+        "name_jp": "ハルブーン",
+        "name_en": "Halvung",
+        "region": "ハルブーン傭兵団領",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "mount_zhayolm",
+        "name_jp": "ゼオルム火山",
+        "name_en": "Mount Zhayolm",
+        "region": "ハルブーン傭兵団領",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "navukgo_execution_chamber",
+        "name_jp": "ナバゴ処刑場",
+        "name_en": "Navukgo Execution Chamber",
+        "region": "ハルブーン傭兵団領",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "lebros_cavern",
+        "name_jp": "レベロス風穴",
+        "name_en": "Lebros Cavern",
+        "region": "ハルブーン傭兵団領",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "nashmau",
+        "name_jp": "ナシュモ",
+        "name_en": "Nashmau",
+        "region": "アラパゴ諸島",
+        "warp_services": [
+            "homepoint",
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "caedarva_mire",
+        "name_jp": "カダーバの浮沼",
+        "name_en": "Caedarva Mire",
+        "region": "アラパゴ諸島",
+        "warp_services": [
+            "homepoint",
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "talacca_cove",
+        "name_jp": "タラッカ入江",
+        "name_en": "Talacca Cove",
+        "region": "アラパゴ諸島",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "leujaoam_sanctum",
+        "name_jp": "ルジャワン霊窟",
+        "name_en": "Leujaoam Sanctum",
+        "region": "アラパゴ諸島",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "periqia",
+        "name_jp": "ペリキア",
+        "name_en": "Periqia",
+        "region": "アラパゴ諸島",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "arrapago_reef",
+        "name_jp": "アラパゴ暗礁域",
+        "name_en": "Arrapago Reef",
+        "region": "アラパゴ諸島",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "ilrusi_atoll",
+        "name_jp": "イルルシ環礁",
+        "name_en": "Ilrusi Atoll",
+        "region": "アラパゴ諸島",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "hazhalm_testing_grounds",
+        "name_jp": "ハザルム試験場",
+        "name_en": "Hazhalm Testing Grounds",
+        "region": "アラパゴ諸島",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "alzadaal_undersea_ruins",
+        "name_jp": "アルザダール海底遺跡群",
+        "name_en": "Alzadaal Undersea Ruins",
+        "region": "アルザダール文明遺跡群",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "zhayolm_remnants",
+        "name_jp": "ゼオルム遺構",
+        "name_en": "Zhayolm Remnants",
+        "region": "アルザダール文明遺跡群",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "arrapago_remnants",
+        "name_jp": "アラパゴ遺構",
+        "name_en": "Arrapago Remnants",
+        "region": "アルザダール文明遺跡群",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "bhaflau_remnants",
+        "name_jp": "バフラウ遺構",
+        "name_en": "Bhaflau Remnants",
+        "region": "アルザダール文明遺跡群",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "silver_sea_remnants",
+        "name_jp": "銀海遺構",
+        "name_en": "Silver Sea Remnants",
+        "region": "アルザダール文明遺跡群",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "nyzul_isle",
+        "name_jp": "ナイズル島",
+        "name_en": "Nyzul Isle",
+        "region": "アルザダール文明遺跡群",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "southern_san_doria_s",
+        "name_jp": "南サンドリア〔Ｓ〕",
+        "name_en": "Southern San d'Oria [S]",
+        "region": "ロンフォール戦線",
+        "warp_services": [
+            "homepoint",
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "east_ronfaure_s",
+        "name_jp": "東ロンフォール〔Ｓ〕",
+        "name_en": "East Ronfaure [S]",
+        "region": "ロンフォール戦線",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "jugner_forest_s",
+        "name_jp": "ジャグナー森林〔Ｓ〕",
+        "name_en": "Jugner Forest [S]",
+        "region": "ノルバレン戦線",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "batallia_downs_s",
+        "name_jp": "バタリア丘陵〔Ｓ〕",
+        "name_en": "Batallia Downs [S]",
+        "region": "ノルバレン戦線",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "la_vaule_s",
+        "name_jp": "ラヴォール村〔Ｓ〕",
+        "name_en": "La Vaule [S]",
+        "region": "ノルバレン戦線",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "everbloom_hollow",
+        "name_jp": "常花の石窟",
+        "name_en": "Everbloom Hollow",
+        "region": "ノルバレン戦線",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "the_eldieme_necropolis_s",
+        "name_jp": "エルディーム古墳〔Ｓ〕",
+        "name_en": "The Eldieme Necropolis [S]",
+        "region": "ノルバレン戦線",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "bastok_markets_s",
+        "name_jp": "バストゥーク商業区〔Ｓ〕",
+        "name_en": "Bastok Markets [S]",
+        "region": "グスタベルグ戦線",
+        "warp_services": [
+            "homepoint",
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "north_gustaberg_s",
+        "name_jp": "北グスタベルグ〔Ｓ〕",
+        "name_en": "North Gustaberg [S]",
+        "region": "グスタベルグ戦線",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "grauberg_s",
+        "name_jp": "グロウベルグ〔Ｓ〕",
+        "name_en": "Grauberg [S]",
+        "region": "グスタベルグ戦線",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "ruhotz_silvermines",
+        "name_jp": "ルホッツ銀山",
+        "name_en": "Ruhotz Silvermines",
+        "region": "グスタベルグ戦線",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "vunkerl_inlet_s",
+        "name_jp": "ブンカール浦〔Ｓ〕",
+        "name_en": "Vunkerl Inlet [S]",
+        "region": "デルフラント戦線",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "pashhow_marshlands_s",
+        "name_jp": "パシュハウ沼〔Ｓ〕",
+        "name_en": "Pashhow Marshlands [S]",
+        "region": "デルフラント戦線",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "rolanberry_fields_s",
+        "name_jp": "ロランベリー耕地〔Ｓ〕",
+        "name_en": "Rolanberry Fields [S]",
+        "region": "デルフラント戦線",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "beadeaux_s",
+        "name_jp": "ベドー〔Ｓ〕",
+        "name_en": "Beadeaux [S]",
+        "region": "デルフラント戦線",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "crawlers_nest_s",
+        "name_jp": "クロウラーの巣〔Ｓ〕",
+        "name_en": "Crawlers' Nest [S]",
+        "region": "デルフラント戦線",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "windurst_waters_s",
+        "name_jp": "ウィンダス水の区〔Ｓ〕",
+        "name_en": "Windurst Waters [S]",
+        "region": "サルタバルタ戦線",
+        "warp_services": [
+            "homepoint",
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "west_sarutabaruta_s",
+        "name_jp": "西サルタバルタ〔Ｓ〕",
+        "name_en": "West Sarutabaruta [S]",
+        "region": "サルタバルタ戦線",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "fort_karugo_narugo_s",
+        "name_jp": "カルゴナルゴ城砦〔Ｓ〕",
+        "name_en": "Fort Karugo-Narugo [S]",
+        "region": "サルタバルタ戦線",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "ghoyus_reverie",
+        "name_jp": "ゴユの空洞",
+        "name_en": "Ghoyu's Reverie",
+        "region": "サルタバルタ戦線",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "meriphataud_mountains_s",
+        "name_jp": "メリファト山地〔Ｓ〕",
+        "name_en": "Meriphataud Mountains [S]",
+        "region": "アラゴーニュ戦線",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "sauromugue_champaign_s",
+        "name_jp": "ソロムグ原野〔Ｓ〕",
+        "name_en": "Sauromugue Champaign [S]",
+        "region": "アラゴーニュ戦線",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "castle_oztroja_s",
+        "name_jp": "オズトロヤ城〔Ｓ〕",
+        "name_en": "Castle Oztroja [S]",
+        "region": "アラゴーニュ戦線",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "garlaige_citadel_s",
+        "name_jp": "ガルレージュ要塞〔Ｓ〕",
+        "name_en": "Garlaige Citadel [S]",
+        "region": "アラゴーニュ戦線",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "beaucedine_glacier_s",
+        "name_jp": "ボスディン氷河〔Ｓ〕",
+        "name_en": "Beaucedine Glacier [S]",
+        "region": "フォルガンディ戦線",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "xarcabard_s",
+        "name_jp": "ザルカバード〔Ｓ〕",
+        "name_en": "Xarcabard [S]",
+        "region": "バルドニア戦線",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "castle_zvahl_baileys_s",
+        "name_jp": "ズヴァール城外郭〔Ｓ〕",
+        "name_en": "Castle Zvahl Baileys [S]",
+        "region": "バルドニア戦線",
+        "warp_services": [
+            "survival_guide"
+        ],
+        "contents": []
+    },
+    {
+        "id": "castle_zvahl_keep_s",
+        "name_jp": "ズヴァール城内郭〔Ｓ〕",
+        "name_en": "Castle Zvahl Keep [S]",
+        "region": "バルドニア戦線",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "throne_room_s",
+        "name_jp": "王の間〔Ｓ〕",
+        "name_en": "Throne Room [S]",
+        "region": "バルドニア戦線",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "abyssea_la_theine",
+        "name_jp": "アビセア-ラテーヌ",
+        "name_en": "Abyssea - La Theine",
+        "region": "アビセア",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "abyssea_konschtat",
+        "name_jp": "アビセア-コンシュタット",
+        "name_en": "Abyssea - Konschtat",
+        "region": "アビセア",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "abyssea_tahrongi",
+        "name_jp": "アビセア-タロンギ",
+        "name_en": "Abyssea - Tahrongi",
+        "region": "アビセア",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "abyssea_attohwa",
+        "name_jp": "アビセア-アットワ",
+        "name_en": "Abyssea - Attohwa",
+        "region": "アビセア",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "abyssea_misareaux",
+        "name_jp": "アビセア-ミザレオ",
+        "name_en": "Abyssea - Misareaux",
+        "region": "アビセア",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "abyssea_vunkerl",
+        "name_jp": "アビセア-ブンカール",
+        "name_en": "Abyssea - Vunkerl",
+        "region": "アビセア",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "abyssea_altepa",
+        "name_jp": "アビセア-アルテパ",
+        "name_en": "Abyssea - Altepa",
+        "region": "アビセア",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "abyssea_uleguerand",
+        "name_jp": "アビセア-ウルガラン",
+        "name_en": "Abyssea - Uleguerand",
+        "region": "アビセア",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "abyssea_grauberg",
+        "name_jp": "アビセア-グロウベルグ",
+        "name_en": "Abyssea - Grauberg",
+        "region": "アビセア",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "abyssea_empyreal_paradox",
+        "name_jp": "アビセア-天象の鎖",
+        "name_en": "Abyssea - Empyreal Paradox",
+        "region": "アビセア",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "walk_of_echoes",
+        "name_jp": "ウォークオブエコーズ",
+        "name_en": "Walk of Echoes",
+        "region": "スレッショルド",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "walk_of_echoes_p1",
+        "name_jp": "ウォークオブエコーズ〔Ｐ１〕",
+        "name_en": "Walk of Echoes [P1]",
+        "region": "スレッショルド",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "walk_of_echoes_p2",
+        "name_jp": "ウォークオブエコーズ〔Ｐ２〕",
+        "name_en": "Walk of Echoes [P2]",
+        "region": "スレッショルド",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "diorama_abdhaljs_ghelsba",
+        "name_jp": "アブダルスの箱庭-ゲルスバ",
+        "name_en": "Diorama Abdhaljs-Ghelsba",
+        "region": "アブダルス",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "abdhaljs_isle_purgonorgo",
+        "name_jp": "アブダルスの島-プルゴノルゴ",
+        "name_en": "Abdhaljs Isle-Purgonorgo",
+        "region": "アブダルス",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "maquette_abdhaljs_legiona",
+        "name_jp": "アブダルスの模型-レギオンA",
+        "name_en": "Maquette Abdhaljs-LegionA",
+        "region": "アブダルス",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "maquette_abdhaljs_legionb",
+        "name_jp": "アブダルスの模型-レギオンB",
+        "name_en": "Maquette Abdhaljs-LegionB",
+        "region": "アブダルス",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "yahse_hunting_grounds",
+        "name_jp": "ヤッセの狩り場",
+        "name_en": "Yahse Hunting Grounds",
+        "region": "東ウルブカ地方",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "ceizak_battlegrounds",
+        "name_jp": "ケイザック古戦場",
+        "name_en": "Ceizak Battlegrounds",
+        "region": "東ウルブカ地方",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "foret_de_hennetiel",
+        "name_jp": "エヌティエル水林",
+        "name_en": "Foret de Hennetiel",
+        "region": "東ウルブカ地方",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "yorcia_weald",
+        "name_jp": "ヨルシア森林",
+        "name_en": "Yorcia Weald",
+        "region": "東ウルブカ地方",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "yorcia_weald_u",
+        "name_jp": "ヨルシア森林〔Ｕ〕",
+        "name_en": "Yorcia Weald [U]",
+        "region": "東ウルブカ地方",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "morimar_basalt_fields",
+        "name_jp": "モリマー台地",
+        "name_en": "Morimar Basalt Fields",
+        "region": "東ウルブカ地方",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "marjami_ravine",
+        "name_jp": "マリアミ渓谷",
+        "name_en": "Marjami Ravine",
+        "region": "東ウルブカ地方",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "kamihr_drifts",
+        "name_jp": "カミール山麓",
+        "name_en": "Kamihr Drifts",
+        "region": "東ウルブカ地方",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "mount_kamihr",
+        "name_jp": "カミール山",
+        "name_en": "Mount Kamihr",
+        "region": "東ウルブカ地方",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "sih_gates",
+        "name_jp": "シィの門",
+        "name_en": "Sih Gates",
+        "region": "東ウルブカ地方",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "moh_gates",
+        "name_jp": "モーの門",
+        "name_en": "Moh Gates",
+        "region": "東ウルブカ地方",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "cirdas_caverns",
+        "name_jp": "シルダス洞窟",
+        "name_en": "Cirdas Caverns",
+        "region": "東ウルブカ地方",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "cirdas_caverns_u",
+        "name_jp": "シルダス洞窟〔Ｕ〕",
+        "name_en": "Cirdas Caverns [U]",
+        "region": "東ウルブカ地方",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "dho_gates",
+        "name_jp": "ドーの門",
+        "name_en": "Dho Gates",
+        "region": "東ウルブカ地方",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "woh_gates",
+        "name_jp": "ウォーの門",
+        "name_en": "Woh Gates",
+        "region": "東ウルブカ地方",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "leafallia",
+        "name_jp": "リファーリア",
+        "name_en": "Leafallia",
+        "region": "東ウルブカ地方",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "outer_rakaznar",
+        "name_jp": "ラ・カザナル宮外郭",
+        "name_en": "Outer Ra'Kaznar",
+        "region": "ラ・カザナル",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "outer_rakaznar_u1",
+        "name_jp": "ラ・カザナル宮外郭〔Ｕ１〕",
+        "name_en": "Outer Ra'Kaznar [U1]",
+        "region": "ラ・カザナル",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "outer_rakaznar_u2",
+        "name_jp": "ラ・カザナル宮外郭〔Ｕ２〕",
+        "name_en": "Outer Ra'Kaznar [U2]",
+        "region": "ラ・カザナル",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "outer_rakaznar_u3",
+        "name_jp": "ラ・カザナル宮外郭〔Ｕ３〕",
+        "name_en": "Outer Ra'Kaznar [U3]",
+        "region": "ラ・カザナル",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "rakaznar_inner_court",
+        "name_jp": "ラ・カザナル宮内郭",
+        "name_en": "Ra'Kaznar Inner Court",
+        "region": "ラ・カザナル",
+        "warp_services": [
+            "homepoint"
+        ],
+        "contents": []
+    },
+    {
+        "id": "rakaznar_turris",
+        "name_jp": "ラ・カザナル宮天守",
+        "name_en": "Ra'Kaznar Turris",
+        "region": "ラ・カザナル",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "escha_zitah",
+        "name_jp": "エスカ-ジ・タ",
+        "name_en": "Escha - Zi'Tah",
+        "region": "エスカ",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "escha_ruaun",
+        "name_jp": "エスカ-ル・オン",
+        "name_en": "Escha - Ru'Aun",
+        "region": "エスカ",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "reisenjima",
+        "name_jp": "醴泉島",
+        "name_en": "Reisenjima",
+        "region": "ひんがし",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "reisenjima_henge",
+        "name_jp": "醴泉島-秘境",
+        "name_en": "Reisenjima Henge",
+        "region": "ひんがし",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "reisenjima_sanctorium",
+        "name_jp": "醴泉島の祠",
+        "name_en": "Reisenjima Sanctorium",
+        "region": "ひんがし",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "ship_bound_for_selbina",
+        "name_jp": "航路：セルビナ行き（機船航路、海賊航路）",
+        "name_en": "Ship bound for Selbina",
+        "region": "その他",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "ship_bound_for_mhaura",
+        "name_jp": "航路：マウラ行き（機船航路、海賊航路）",
+        "name_en": "Ship bound for Mhaura",
+        "region": "その他",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "open_sea_route_to_al_zahbi",
+        "name_jp": "外洋航路：アルザビ行き",
+        "name_en": "Open sea route to Al Zahbi",
+        "region": "その他",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "open_sea_route_to_mhaura",
+        "name_jp": "外洋航路：マウラ行き",
+        "name_en": "Open sea route to Mhaura",
+        "region": "その他",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "silver_sea_route_to_nashmau",
+        "name_jp": "銀海航路：ナシュモ行き",
+        "name_en": "Silver Sea route to Nashmau",
+        "region": "その他",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "silver_sea_route_to_al_zahbi",
+        "name_jp": "銀海航路：アルザビ行き",
+        "name_en": "Silver Sea route to Al Zahbi",
+        "region": "その他",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "san_doria_jeuno_airship",
+        "name_jp": "飛空艇航路(ジュノ-サンドリア間)",
+        "name_en": "San d'Oria-Jeuno Airship",
+        "region": "その他",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "bastok_jeuno_airship",
+        "name_jp": "飛空艇航路(ジュノ-バストゥーク間)",
+        "name_en": "Bastok-Jeuno Airship",
+        "region": "その他",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "windurst_jeuno_airship",
+        "name_jp": "飛空艇航路(ジュノ-ウィンダス間)",
+        "name_en": "Windurst-Jeuno Airship",
+        "region": "その他",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "kazham_jeuno_airship",
+        "name_jp": "飛空艇航路(ジュノ-カザム間)",
+        "name_en": "Kazham-Jeuno Airship",
+        "region": "その他",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "the_ashu_talif",
+        "name_jp": "アシュタリフ号",
+        "name_en": "The Ashu Talif",
+        "region": "その他",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "chocobo_circuit",
+        "name_jp": "チョコボサーキット",
+        "name_en": "Chocobo Circuit",
+        "region": "その他",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "provenance",
+        "name_jp": "真界",
+        "name_en": "Provenance",
+        "region": "その他",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "feretory",
+        "name_jp": "魂の聖櫃",
+        "name_en": "Feretory",
+        "region": "その他",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "desuetia_empyreal_paradox",
+        "name_jp": "デスエチア-天象の鎖",
+        "name_en": "Desuetia - Empyreal Paradox",
+        "region": "その他",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "throne_room_v",
+        "name_jp": "王の間〔Ｖ〕",
+        "name_en": "Throne Room [V]",
+        "region": "その他",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "gwora_corridor",
+        "name_jp": "グォラ-歩廊",
+        "name_en": "Gwora - Corridor",
+        "region": "その他",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "gwora_throne_room",
+        "name_jp": "グォラ-王の間",
+        "name_en": "Gwora - Throne Room",
+        "region": "その他",
+        "warp_services": [],
+        "contents": []
+    },
+    {
+        "id": "mordion_gaol",
+        "name_jp": "モルディオン監獄",
+        "name_en": "Mordion Gaol",
+        "region": "その他",
+        "warp_services": [],
+        "contents": []
+    }
+]

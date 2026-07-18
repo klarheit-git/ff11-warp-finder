@@ -1,0 +1,42 @@
+[
+    {
+        "id": "signet",
+        "name_jp": "シグネット",
+        "name_en": "Signet",
+        "categories": [
+            "facility"
+        ]
+    },
+    {
+        "id": "mount",
+        "name_jp": "マウント習得（Mapitoto）",
+        "name_en": "Learn Mount(Mapitoto)",
+        "categories": [
+            "facility"
+        ]
+    },
+    {
+        "id": "moghouse",
+        "name_jp": "モグハウス",
+        "name_en": "Mog Houses",
+        "categories": [
+            "facility"
+        ]
+    },
+    {
+        "id": "auction",
+        "name_jp": "競売所",
+        "name_en": "Auction Houses",
+        "categories": [
+            "facility"
+        ]
+    },
+    {
+        "id": "ambuscade",
+        "name_jp": "アンバスケード",
+        "name_en": "Ambuscade",
+        "categories": [
+            "battle"
+        ]
+    }
+]

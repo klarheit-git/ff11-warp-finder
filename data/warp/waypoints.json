@@ -1,0 +1,32 @@
+[
+    {
+        "type": "waypoint",
+        "from": "wp_lower_jeuno_h7",
+        "to": "wp_western_adoulin_e8",
+        "cost": {
+            "cp": 30
+        },
+        "time": 1,
+        "conditions_jp": [
+            "開通"
+        ],
+        "conditions_en": [
+            "Activated"
+        ]
+    },
+    {
+        "type": "waypoint",
+        "from": "wp_western_adoulin_e8",
+        "to": "wp_lower_jeuno_h7",
+        "cost": {
+            "cp": 30
+        },
+        "time": 1,
+        "conditions_jp": [
+            "開通"
+        ],
+        "conditions_en": [
+            "Activated"
+        ]
+    },
+]
