@@ -327,14 +327,19 @@ toAreaSelect.addEventListener('change', () => {
     renderRoutes(fromAreaSelect.value, toAreaSelect.value);
 });
 
-areaSearchInput.addEventListener('input', () => {
+const handleAreaSearch = () => {
     const query = areaSearchInput.value;
 
     populateAreaSelect(toAreaSelect, toAreaSelect.value, query);
     populateSourceSelect(toAreaSelect.value);
     renderSummary(fromAreaSelect.value, toAreaSelect.value);
     renderRoutes(fromAreaSelect.value, toAreaSelect.value);
-});
+};
+
+areaSearchInput.addEventListener('input', handleAreaSearch);
+// Firefox fires the `search` event when the clear (✕) button is used —
+// listen for it so clearing the field updates the results there as well.
+areaSearchInput.addEventListener('search', handleAreaSearch);
 
 loadData().catch((error) => {
     summaryBox.innerHTML = '<p>データの読み込みに失敗しました。</p>';
