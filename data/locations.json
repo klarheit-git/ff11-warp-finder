@@ -689,8 +689,8 @@
   },
   {
     "id": "western_adoulin_hp2",
-    "name_jp": "西アドゥリン #2",
-    "name_en": "Western Adoulin #2",
+    "name_jp": "西アドゥリン #2(M)",
+    "name_en": "Western Adoulin #2(M)",
     "description": "レンタルハウス横",
     "contents": [],
     "aliases": [
@@ -713,8 +713,8 @@
   },
   {
     "id": "eastern_adoulin_hp2",
-    "name_jp": "東アドゥリン #2",
-    "name_en": "Eastern Adoulin #2",
+    "name_jp": "東アドゥリン #2(M)",
+    "name_en": "Eastern Adoulin #2(M)",
     "description": "競売所ウェイポイント前",
     "contents": [],
     "aliases": [
