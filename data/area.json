@@ -5,7 +5,8 @@
         "name_en": "Southern San d'Oria",
         "region": "サンドリア王国",
         "warp_services": [
-            "homepoint"
+            "homepoint",
+            "wanted"
         ],
         "contents": []
     },
@@ -55,7 +56,8 @@
         "name_en": "Bastok Markets",
         "region": "バストゥーク共和国",
         "warp_services": [
-            "homepoint"
+            "homepoint",
+            "wanted"
         ],
         "contents": []
     },
@@ -111,7 +113,9 @@
         "name_jp": "ウィンダス森の区",
         "name_en": "Windurst Woods",
         "region": "ウィンダス連邦",
-        "warp_services": [],
+        "warp_services": [
+            "wanted"
+        ],
         "contents": []
     },
     {
@@ -206,7 +210,8 @@
         "name_en": "Western Adoulin",
         "region": "アドゥリン諸島",
         "warp_services": [
-            "homepoint"
+            "homepoint",
+            "wanted"
         ],
         "contents": []
     },
@@ -276,7 +281,9 @@
         "name_jp": "東ロンフォール",
         "name_en": "East Ronfaure",
         "region": "ロンフォール",
-        "warp_services": [],
+        "warp_services": [
+            "wanted"
+        ],
         "contents": []
     },
     {
@@ -331,7 +338,8 @@
         "name_en": "Bostaunieux Oubliette",
         "region": "ロンフォール",
         "warp_services": [
-            "survival_guide"
+            "survival_guide",
+            "wanted"
         ],
         "contents": []
     },
@@ -341,7 +349,8 @@
         "name_en": "Valkurm Dunes",
         "region": "ザルクヘイム",
         "warp_services": [
-            "survival_guide"
+            "survival_guide",
+            "wanted"
         ],
         "contents": []
     },
@@ -351,7 +360,8 @@
         "name_en": "Konschtat Highlands",
         "region": "ザルクヘイム",
         "warp_services": [
-            "survival_guide"
+            "survival_guide",
+            "wanted"
         ],
         "contents": []
     },
@@ -371,7 +381,8 @@
         "name_en": "La Theine Plateau",
         "region": "ザルクヘイム",
         "warp_services": [
-            "survival_guide"
+            "survival_guide",
+            "wanted"
         ],
         "contents": []
     },
@@ -401,7 +412,8 @@
         "name_en": "Jugner Forest",
         "region": "ノルバレン",
         "warp_services": [
-            "survival_guide"
+            "survival_guide",
+            "wanted"
         ],
         "contents": []
     },
@@ -411,7 +423,8 @@
         "name_en": "Batallia Downs",
         "region": "ノルバレン",
         "warp_services": [
-            "survival_guide"
+            "survival_guide",
+            "wanted"
         ],
         "contents": []
     },
@@ -457,7 +470,8 @@
         "name_en": "Carpenters' Landing",
         "region": "ノルバレン",
         "warp_services": [
-            "survival_guide"
+            "survival_guide",
+            "wanted"
         ],
         "contents": []
     },
@@ -476,7 +490,9 @@
         "name_jp": "南グスタベルグ",
         "name_en": "South Gustaberg",
         "region": "グスタベルグ",
-        "warp_services": [],
+        "warp_services": [
+            "wanted"
+        ],
         "contents": []
     },
     {
@@ -485,7 +501,8 @@
         "name_en": "Zeruhn Mines",
         "region": "グスタベルグ",
         "warp_services": [
-            "survival_guide"
+            "survival_guide",
+            "wanted"
         ],
         "contents": []
     },
@@ -533,7 +550,8 @@
         "name_en": "Pashhow Marshlands",
         "region": "デルフラント",
         "warp_services": [
-            "survival_guide"
+            "survival_guide",
+            "wanted"
         ],
         "contents": []
     },
@@ -543,7 +561,8 @@
         "name_en": "Rolanberry Fields",
         "region": "デルフラント",
         "warp_services": [
-            "survival_guide"
+            "survival_guide",
+            "wanted"
         ],
         "contents": []
     },
@@ -590,7 +609,9 @@
         "name_jp": "東サルタバルタ",
         "name_en": "East Sarutabaruta",
         "region": "サルタバルタ",
-        "warp_services": [],
+        "warp_services": [
+            "wanted"
+        ],
         "contents": []
     },
     {
@@ -654,7 +675,8 @@
         "name_en": "Buburimu Peninsula",
         "region": "コルシュシュ",
         "warp_services": [
-            "survival_guide"
+            "survival_guide",
+            "wanted"
         ],
         "contents": []
     },
@@ -664,7 +686,8 @@
         "name_en": "Tahrongi Canyon",
         "region": "コルシュシュ",
         "warp_services": [
-            "survival_guide"
+            "survival_guide",
+            "wanted"
         ],
         "contents": []
     },
@@ -694,7 +717,8 @@
         "name_en": "Labyrinth of Onzozo",
         "region": "コルシュシュ",
         "warp_services": [
-            "survival_guide"
+            "survival_guide",
+            "wanted"
         ],
         "contents": []
     },
@@ -712,7 +736,8 @@
         "name_en": "Bibiki Bay",
         "region": "コルシュシュ",
         "warp_services": [
-            "survival_guide"
+            "survival_guide",
+            "wanted"
         ],
         "contents": []
     },
@@ -722,7 +747,8 @@
         "name_en": "Meriphataud Mountains",
         "region": "アラゴーニュ",
         "warp_services": [
-            "survival_guide"
+            "survival_guide",
+            "wanted"
         ],
         "contents": []
     },
@@ -732,7 +758,8 @@
         "name_en": "Sauromugue Champaign",
         "region": "アラゴーニュ",
         "warp_services": [
-            "survival_guide"
+            "survival_guide",
+            "wanted"
         ],
         "contents": []
     },
@@ -742,7 +769,8 @@
         "name_en": "Garlaige Citadel",
         "region": "アラゴーニュ",
         "warp_services": [
-            "survival_guide"
+            "survival_guide",
+            "wanted"
         ],
         "contents": []
     },
@@ -770,7 +798,8 @@
         "name_en": "Attohwa Chasm",
         "region": "アラゴーニュ",
         "warp_services": [
-            "homepoint"
+            "homepoint",
+            "wanted"
         ],
         "contents": []
     },
@@ -788,7 +817,8 @@
         "name_en": "Beaucedine Glacier",
         "region": "フォルガンディ",
         "warp_services": [
-            "survival_guide"
+            "survival_guide",
+            "wanted"
         ],
         "contents": []
     },
@@ -808,7 +838,8 @@
         "name_en": "Fei'Yin",
         "region": "フォルガンディ",
         "warp_services": [
-            "homepoint"
+            "homepoint",
+            "wanted"
         ],
         "contents": []
     },
@@ -890,7 +921,8 @@
         "name_en": "Uleguerand Range",
         "region": "バルドニア",
         "warp_services": [
-            "homepoint"
+            "homepoint",
+            "wanted"
         ],
         "contents": []
     },
@@ -919,7 +951,8 @@
         "name_en": "Behemoth's Dominion",
         "region": "クフィム",
         "warp_services": [
-            "survival_guide"
+            "survival_guide",
+            "wanted"
         ],
         "contents": []
     },
@@ -965,7 +998,8 @@
         "name_en": "The Sanctuary of Zi'Tah",
         "region": "リ・テロア",
         "warp_services": [
-            "survival_guide"
+            "survival_guide",
+            "wanted"
         ],
         "contents": []
     },
@@ -975,7 +1009,8 @@
         "name_en": "Ro'Maeve",
         "region": "リ・テロア",
         "warp_services": [
-            "survival_guide"
+            "survival_guide",
+            "wanted"
         ],
         "contents": []
     },
@@ -993,7 +1028,8 @@
         "name_en": "The Boyahda Tree",
         "region": "リ・テロア",
         "warp_services": [
-            "homepoint"
+            "homepoint",
+            "wanted"
         ],
         "contents": []
     },
@@ -1021,7 +1057,8 @@
         "name_en": "Eastern Altepa Desert",
         "region": "クゾッツ",
         "warp_services": [
-            "survival_guide"
+            "survival_guide",
+            "wanted"
         ],
         "contents": []
     },
@@ -1031,7 +1068,8 @@
         "name_en": "Western Altepa Desert",
         "region": "クゾッツ",
         "warp_services": [
-            "survival_guide"
+            "survival_guide",
+            "wanted"
         ],
         "contents": []
     },
@@ -1052,7 +1090,8 @@
         "name_en": "Quicksand Caves",
         "region": "クゾッツ",
         "warp_services": [
-            "homepoint"
+            "homepoint",
+            "wanted"
         ],
         "contents": []
     },
@@ -1079,7 +1118,8 @@
         "region": "ヴォルボー",
         "warp_services": [
             "homepoint",
-            "survival_guide"
+            "survival_guide",
+            "wanted"
         ],
         "contents": []
     },
@@ -1097,7 +1137,8 @@
         "name_en": "Kuftal Tunnel",
         "region": "ヴォルボー",
         "warp_services": [
-            "survival_guide"
+            "survival_guide",
+            "wanted"
         ],
         "contents": []
     },
@@ -1107,7 +1148,8 @@
         "name_en": "Valley of Sorrows",
         "region": "ヴォルボー",
         "warp_services": [
-            "survival_guide"
+            "survival_guide",
+            "wanted"
         ],
         "contents": []
     },
@@ -1117,7 +1159,8 @@
         "name_en": "Gustav Tunnel",
         "region": "ヴォルボー",
         "warp_services": [
-            "survival_guide"
+            "survival_guide",
+            "wanted"
         ],
         "contents": []
     },
@@ -1127,7 +1170,8 @@
         "name_en": "Yuhtunga Jungle",
         "region": "低地エルシモ",
         "warp_services": [
-            "survival_guide"
+            "survival_guide",
+            "wanted"
         ],
         "contents": []
     },
@@ -1159,7 +1203,8 @@
         "name_en": "Sea Serpent Grotto",
         "region": "低地エルシモ",
         "warp_services": [
-            "survival_guide"
+            "survival_guide",
+            "wanted"
         ],
         "contents": []
     },
@@ -1169,7 +1214,8 @@
         "name_en": "Yhoator Jungle",
         "region": "高地エルシモ",
         "warp_services": [
-            "survival_guide"
+            "survival_guide",
+            "wanted"
         ],
         "contents": []
     },
@@ -1179,7 +1225,8 @@
         "name_en": "Temple of Uggalepih",
         "region": "高地エルシモ",
         "warp_services": [
-            "survival_guide"
+            "survival_guide",
+            "wanted"
         ],
         "contents": []
     },
@@ -1189,7 +1236,8 @@
         "name_en": "Den of Rancor",
         "region": "高地エルシモ",
         "warp_services": [
-            "homepoint"
+            "homepoint",
+            "wanted"
         ],
         "contents": []
     },
@@ -1216,7 +1264,8 @@
         "region": "高地エルシモ",
         "warp_services": [
             "homepoint",
-            "survival_guide"
+            "survival_guide",
+            "wanted"
         ],
         "contents": []
     },
@@ -1430,7 +1479,8 @@
         "name_en": "Lufaise Meadows",
         "region": "タブナジア群島",
         "warp_services": [
-            "survival_guide"
+            "survival_guide",
+            "wanted"
         ],
         "contents": []
     },
@@ -1441,7 +1491,8 @@
         "region": "タブナジア群島",
         "warp_services": [
             "homepoint",
-            "survival_guide"
+            "survival_guide",
+            "wanted"
         ],
         "contents": []
     },
@@ -1643,7 +1694,8 @@
         "name_en": "Wajaom Woodlands",
         "region": "マムージャ蕃国",
         "warp_services": [
-            "survival_guide"
+            "survival_guide",
+            "wanted"
         ],
         "contents": []
     },
@@ -1669,7 +1721,8 @@
         "name_en": "Aydeewa Subterrane",
         "region": "マムージャ蕃国",
         "warp_services": [
-            "survival_guide"
+            "survival_guide",
+            "wanted"
         ],
         "contents": []
     },
@@ -1689,7 +1742,8 @@
         "name_en": "Mount Zhayolm",
         "region": "ハルブーン傭兵団領",
         "warp_services": [
-            "homepoint"
+            "homepoint",
+            "wanted"
         ],
         "contents": []
     },
@@ -1727,7 +1781,8 @@
         "region": "アラパゴ諸島",
         "warp_services": [
             "homepoint",
-            "survival_guide"
+            "survival_guide",
+            "wanted"
         ],
         "contents": []
     },
@@ -1786,7 +1841,9 @@
         "name_jp": "アルザダール海底遺跡群",
         "name_en": "Alzadaal Undersea Ruins",
         "region": "アルザダール文明遺跡群",
-        "warp_services": [],
+        "warp_services": [
+            "wanted"
+        ],
         "contents": []
     },
     {

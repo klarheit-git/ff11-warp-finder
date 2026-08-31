@@ -78,7 +78,8 @@ body {
     font-weight: 600;
 }
 
-select {
+select,
+input[type="search"] {
     width: 100%;
     padding: 10px 12px;
     border-radius: 10px;
@@ -86,6 +87,14 @@ select {
     background: var(--panel-2);
     color: var(--text);
     font-size: 0.95rem;
+}
+
+input[type="search"]::placeholder {
+    color: var(--muted);
+}
+
+.search-card {
+    justify-content: center;
 }
 
 .summary-card {

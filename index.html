@@ -15,11 +15,16 @@
             <h1>FF11ワープナビ</h1>
             <p class="description">
                 FINAL FANTASY XI（FF11/FFXI）の、とてもとてもたくさんあるワープ移動を探すためのツール。</br>
-                まだ作成途中で、ホームポイントとサバイバルガイドしか対応してないよ。
+                まだ作成途中で、ホームポイントとサバイバルガイドとウォンテッド（ユニティワープ）しか対応してないよ。</br>
+                間違いもたくさんあると思うよ。
             </p>
         </header>
 
         <section class="controls" aria-label="エリア選択">
+            <label class="control-card search-card">
+                <span>検索</span>
+                <input id="area-search" type="search" placeholder="到着エリア名で検索" />
+            </label>
             <label class="control-card">
                 <span>到着エリア</span>
                 <select id="to-area"></select>

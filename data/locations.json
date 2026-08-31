@@ -844,16 +844,16 @@
     "area": "psoxja"
   },
   {
-    "id": "castle_zvahl_baileys_hp1",
+    "id": "castle_zvahl_keep_hp1",
     "name_jp": "ズヴァール城内郭 #1",
-    "name_en": "Castle Zvahl Baileys #1",
+    "name_en": "Castle Zvahl Keep #1",
     "description": "MAP[4]、王の間前",
     "contents": [],
     "aliases": [
       "ZvahlKeep"
     ],
     "pos": "G-7",
-    "area": "castle_zvahl_baileys"
+    "area": "castle_zvahl_keep"
   },
   {
     "id": "uleguerand_range_hp1",
@@ -2864,5 +2864,689 @@
     "aliases": [],
     "pos": "G-6",
     "area": "kamihr_drifts"
+  },
+  {
+    "id": "wt_southern_san_doria",
+    "name_jp": "南サンドリア（ユニティ）",
+    "name_en": "Southern San d'Oria (Unity)",
+    "description": "南サンドリア #1(E)付近 Urbiolaine（西門広場前）",
+    "contents": [],
+    "aliases": [
+      "SSandOria"
+    ],
+    "pos": "G-10",
+    "area": "southern_san_doria"
+  },
+  {
+    "id": "wt_bastok_markets",
+    "name_jp": "バストゥーク商業区（ユニティ）",
+    "name_en": "Bastok Markets (Unity)",
+    "description": "バストゥーク商業区 #1(E)付近 Igsli（南グスタベルグ出口前）",
+    "contents": [],
+    "aliases": [
+      "BastokMark"
+    ],
+    "pos": "E-11",
+    "area": "bastok_markets"
+  },
+  {
+    "id": "wt_windurst_woods",
+    "name_jp": "ウィンダス森の区（ユニティ）",
+    "name_en": "Windurst Woods (Unity)",
+    "description": "ウィンダス森の区 #2(E)付近 Teldro-Kesdrodo（東サルタバルタ出口前）",
+    "contents": [],
+    "aliases": [
+      "WindWoods"
+    ],
+    "pos": "J-10",
+    "area": "windurst_woods"
+  },
+  {
+    "id": "wt_western_adoulin",
+    "name_jp": "西アドゥリン（ユニティ）",
+    "name_en": "Western Adoulin (Unity)",
+    "description": "西アドゥリン #2付近 Nunaarl Bthtrogg（レンタルハウス前）",
+    "contents": [],
+    "aliases": [
+      "WestAdoulin"
+    ],
+    "pos": "H-11",
+    "area": "western_adoulin"
+  },
+  {
+    "id": "wt_east_ronfaure",
+    "name_jp": "東ロンフォール（ウォンテッド）",
+    "name_en": "East Ronfaure (Wanted encounter)",
+    "description": "CL 99 / 西ロンフォールとの南側境界付近 / Hugemaw Harold",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "G-9",
+    "area": "east_ronfaure"
+  },
+  {
+    "id": "wt_south_gustaberg",
+    "name_jp": "南グスタベルグ（ウォンテッド）",
+    "name_en": "South Gustaberg (Wanted encounter)",
+    "description": "CL 99 / 北グスタベルグとの西側境界付近 / Bounding Belinda",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "E-7",
+    "area": "south_gustaberg"
+  },
+  {
+    "id": "wt_east_sarutabaruta",
+    "name_jp": "東サルタバルタ（ウォンテッド）",
+    "name_en": "East Sarutabaruta (Wanted encounter)",
+    "description": "CL 99 / 内ホルトト遺跡 ユリの塔近く / Prickly Pitriv",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "J-8",
+    "area": "east_sarutabaruta"
+  },
+  {
+    "id": "wt_la_theine_plateau",
+    "name_jp": "ラテーヌ高原（ウォンテッド）",
+    "name_en": "La Theine Plateau (Wanted encounter)",
+    "description": "CL 99 / 一方通行の段差上側 / Ironhorn Baldurno",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "H-8",
+    "area": "la_theine_plateau"
+  },
+  {
+    "id": "wt_konschtat_highlands",
+    "name_jp": "コンシュタット高地（ウォンテッド）",
+    "name_en": "Konschtat Highlands (Wanted encounter)",
+    "description": "CL 99 / 下位NMポップ地点付近 / Sleepy Mabel",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "G-7",
+    "area": "konschtat_highlands"
+  },
+  {
+    "id": "wt_tahrongi_canyon",
+    "name_jp": "タロンギ大峡谷（ウォンテッド）",
+    "name_en": "Tahrongi Canyon (Wanted encounter)",
+    "description": "CL 99 / ブブリム半島境界付近 / Serpopard Ninlil",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "J-8",
+    "area": "tahrongi_canyon"
+  },
+  {
+    "id": "wt_valkurm_dunes",
+    "name_jp": "バルクルム砂丘（ウォンテッド）",
+    "name_en": "Valkurm Dunes (Wanted encounter)",
+    "description": "CL 119 / セルビナ前 / Valkurm Imperator",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "G-9",
+    "area": "valkurm_dunes"
+  },
+  {
+    "id": "wt_buburimu_peninsula",
+    "name_jp": "ブブリム半島（ウォンテッド）",
+    "name_en": "Buburimu Peninsula (Wanted encounter)",
+    "description": "CL 119 / シャクラミの地下迷宮前 / Abyssdiver",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "F-6",
+    "area": "buburimu_peninsula"
+  },
+  {
+    "id": "wt_kuftal_tunnel",
+    "name_jp": "クフィム島（ウォンテッド）",
+    "name_en": "Kuftal Tunnel (Wanted encounter)",
+    "description": "CL 119 / 洞窟を抜けたあたり / Jester Malatrix",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "I-8",
+    "area": "kuftal_tunnel"
+  },
+  {
+    "id": "wt_bibiki_bay",
+    "name_jp": "ビビキー湾（ウォンテッド）",
+    "name_en": "Bibiki Bay (Wanted encounter)",
+    "description": "CL 119 / MAP[1]、ブブリム半島境界付近 / Intuila",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "I-6",
+    "area": "bibiki_bay"
+  },
+  {
+    "id": "wt_carpenters_landing",
+    "name_jp": "ギルド桟橋（ウォンテッド）",
+    "name_en": "Carpenters' Landing (Wanted encounter)",
+    "description": "CL 119 / MAP[1]、南桟橋側 / Orcfeltrap",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "I-11",
+    "area": "carpenters_landing"
+  },
+  {
+    "id": "wt_yuhtunga_jungle",
+    "name_jp": "ユタンガ大森林（ウォンテッド）",
+    "name_en": "Yuhtunga Jungle (Wanted encounter)",
+    "description": "CL 119 / 海蛇の岩窟前 / Sybaritic Samantha",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "F-11",
+    "area": "yuhtunga_jungle"
+  },
+  {
+    "id": "wt_lufaise_meadows",
+    "name_jp": "ルフェーゼ野（ウォンテッド）",
+    "name_en": "Lufaise Meadows (Wanted encounter)",
+    "description": "CL 119 / Swirling Vortex近く / Immanibugard",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "K-8",
+    "area": "lufaise_meadows"
+  },
+  {
+    "id": "wt_jugner_forest",
+    "name_jp": "ジャグナー森林（ウォンテッド）",
+    "name_en": "Jugner Forest (Wanted encounter)",
+    "description": "CL 122 / OPの近く / Emperor Arthro",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "I-8",
+    "area": "jugner_forest"
+  },
+  {
+    "id": "wt_pashhow_marshlands",
+    "name_jp": "パシュハウ沼（ウォンテッド）",
+    "name_en": "Pashhow Marshlands (Wanted encounter)",
+    "description": "CL 122 / コンシュタット高地境界付近 / Joyous Green",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "E-12",
+    "area": "pashhow_marshlands"
+  },
+  {
+    "id": "wt_meriphataud_mountains",
+    "name_jp": "メリファト山地（ウォンテッド）",
+    "name_en": "Meriphataud Mountains (Wanted encounter)",
+    "description": "CL 122 / タロンギ大峡谷境界付近 / Warblade Beak",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "F-11",
+    "area": "meriphataud_mountains"
+  },
+  {
+    "id": "wt_eastern_altepa_desert",
+    "name_jp": "東アルテパ砂漠（ウォンテッド）",
+    "name_en": "Eastern Altepa Desert (Wanted encounter)",
+    "description": "CL 122 / コロロカの洞門境界付近 / Cactrot Veloz",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "J-8",
+    "area": "eastern_altepa_desert"
+  },
+  {
+    "id": "wt_yhoator_jungle",
+    "name_jp": "ヨアトル大森林（ウォンテッド）",
+    "name_en": "Yhoator Jungle (Wanted encounter)",
+    "description": "CL 122 / 怨念洞境界付近 / Woodland Mender",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "J-7",
+    "area": "yhoator_jungle"
+  },
+  {
+    "id": "wt_the_sanctuary_of_zitah",
+    "name_jp": "聖地ジ・タ（ウォンテッド）",
+    "name_en": "The Sanctuary of Zi'Tah (Wanted encounter)",
+    "description": "CL 122 / ボヤーダ樹前 / Keeper of Heiligtum",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "K-12",
+    "area": "the_sanctuary_of_zitah"
+  },
+  {
+    "id": "wt_misareaux_coast",
+    "name_jp": "ミザレオ海岸（ウォンテッド）",
+    "name_en": "Misareaux Coast (Wanted encounter)",
+    "description": "CL 122 / リヴェーヌ岬に繋がるゲート前 / Tiyanak",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "F-7",
+    "area": "misareaux_coast"
+  },
+  {
+    "id": "wt_labyrinth_of_onzozo",
+    "name_jp": "オンゾゾの迷路（ウォンテッド）",
+    "name_en": "Labyrinth of Onzozo (Wanted encounter)",
+    "description": "CL 122 / Voso",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "G-6",
+    "area": "labyrinth_of_onzozo"
+  },
+  {
+    "id": "wt_bostaunieux_oubliette",
+    "name_jp": "ボストーニュ監獄（ウォンテッド）",
+    "name_en": "Bostaunieux Oubliette (Wanted encounter)",
+    "description": "CL 122 / MAP[2]、西ロンフォール境界付近 / Garbage Gel",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "D-9",
+    "area": "bostaunieux_oubliette"
+  },
+  {
+    "id": "wt_batallia_downs",
+    "name_jp": "バタリア丘陵（ウォンテッド）",
+    "name_en": "Batallia Downs (Wanted encounter)",
+    "description": "CL 125 / ジュノ上層前 / Lumber Jill",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "K-8",
+    "area": "batallia_downs"
+  },
+  {
+    "id": "wt_rolanberry_fields",
+    "name_jp": "ロランベリー耕地（ウォンテッド）",
+    "name_en": "Rolanberry Fields (Wanted encounter)",
+    "description": "CL 125 / クロウラーの巣西側境界付近 / Strix",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "D-11",
+    "area": "rolanberry_fields"
+  },
+  {
+    "id": "wt_sauromugue_champaign",
+    "name_jp": "ソロムグ原野（ウォンテッド）",
+    "name_en": "Sauromugue Champaign (Wanted encounter)",
+    "description": "CL 125 / Deadly Dodoポップ地点付近 / Arke",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "J-6",
+    "area": "sauromugue_champaign"
+  },
+  {
+    "id": "wt_beaucedine_glacier",
+    "name_jp": "ボスディン氷河（ウォンテッド）",
+    "name_en": "Beaucedine Glacier (Wanted encounter)",
+    "description": "CL 125 / テンキー4の通路 / Largantua",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "I-9",
+    "area": "beaucedine_glacier"
+  },
+  {
+    "id": "wt_zeruhn_mines",
+    "name_jp": "ツェールン鉱山（ウォンテッド）",
+    "name_en": "Zeruhn Mines (Wanted encounter)",
+    "description": "CL 125 / ボスディン氷河境界付近 / Beist",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "J-9",
+    "area": "zeruhn_mines"
+  },
+  {
+    "id": "wt_romaeve",
+    "name_jp": "ロ・メーヴ（ウォンテッド）",
+    "name_en": "Ro'Maeve (Wanted encounter)",
+    "description": "CL 125 / 聖地ジ・タ境界付近 / Douma Weapon",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "H-11",
+    "area": "romaeve"
+  },
+  {
+    "id": "wt_western_altepa_desert",
+    "name_jp": "西アルテパ砂漠（ウォンテッド）",
+    "name_en": "Western Altepa Desert (Wanted encounter)",
+    "description": "CL 125 / アルテパゲートに繋がる通路内側 / King Uropygid",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "I-7",
+    "area": "western_altepa_desert"
+  },
+  {
+    "id": "wt_attohwa_chasm",
+    "name_jp": "アットワ地溝（ウォンテッド）",
+    "name_en": "Attohwa Chasm (Wanted encounter)",
+    "description": "CL 125 / 千骸谷方面 / Muut",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "F-7",
+    "area": "attohwa_chasm"
+  },
+  {
+    "id": "wt_garlaige_citadel",
+    "name_jp": "ガルレージュ要塞（ウォンテッド）",
+    "name_en": "Garlaige Citadel (Wanted encounter)",
+    "description": "CL 125 / MAP[5]、地下広場入口 / Mephitas",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "G-6",
+    "area": "garlaige_citadel"
+  },
+  {
+    "id": "wt_ifrits_cauldron",
+    "name_jp": "イフリートの釜（ウォンテッド）",
+    "name_en": "Ifrit's Cauldron (Wanted encounter)",
+    "description": "CL 125 / MAP[3]、Vouivreのわく広場手前 / Coca",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "K-7",
+    "area": "ifrits_cauldron"
+  },
+  {
+    "id": "wt_the_boyahda_tree",
+    "name_jp": "ボヤーダ樹（ウォンテッド）",
+    "name_en": "The Boyahda Tree (Wanted encounter)",
+    "description": "CL 125, CL 135 / MAP[2]、2F広場入口 / Ayapec, Hidhaegg",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "F-6",
+    "area": "the_boyahda_tree"
+  },
+  {
+    "id": "wt_kuftal_tunnel_2",
+    "name_jp": "クフタルの洞門（ウォンテッド）",
+    "name_en": "Kuftal Tunnel (Wanted encounter)",
+    "description": "CL 125 / MAP[2]、テリガン岬手前 / Specter Worm",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "G-3",
+    "area": "kuftal_tunnel"
+  },
+  {
+    "id": "wt_sea_serpent_grotto",
+    "name_jp": "海蛇の岩窟（ウォンテッド）",
+    "name_en": "Sea Serpent Grotto (Wanted encounter)",
+    "description": "CL 125 / MAP[4]、金貨先の広間入口 / Bakunawa",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "L-5",
+    "area": "sea_serpent_grotto"
+  },
+  {
+    "id": "wt_temple_of_uggalepih",
+    "name_jp": "ウガレピ寺院（ウォンテッド）",
+    "name_en": "Temple of Uggalepih (Wanted encounter)",
+    "description": "CL 125 / MAP[2]、ヨアトル大森林境界付近 / Azure-toothed Clawberry",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "I-5",
+    "area": "temple_of_uggalepih"
+  },
+  {
+    "id": "wt_quicksand_caves",
+    "name_jp": "流砂洞（ウォンテッド）",
+    "name_en": "Quicksand Caves (Wanted encounter)",
+    "description": "CL 125 / MAP[1]、東アルテパ砂漠境界付近 / Centurio XX-I",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "J-5",
+    "area": "quicksand_caves"
+  },
+  {
+    "id": "wt_wajaom_woodlands",
+    "name_jp": "ワジャーム樹林（ウォンテッド）",
+    "name_en": "Wajaom Woodlands (Wanted encounter)",
+    "description": "CL 125 / Kubool Ja's Mhuufya",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "I-10",
+    "area": "wajaom_woodlands"
+  },
+  {
+    "id": "wt_lufaise_meadows_2",
+    "name_jp": "ルフェーゼ野（ウォンテッド）",
+    "name_en": "Lufaise Meadows (Wanted encounter)",
+    "description": "CL 125 / Immanibugardと同じ / Vermillion Fishfly",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "K-8",
+    "area": "lufaise_meadows"
+  },
+  {
+    "id": "wt_cape_teriggan",
+    "name_jp": "テリガン岬（ウォンテッド）",
+    "name_en": "Cape Teriggan (Wanted encounter)",
+    "description": "CL 128 / 岩の上 / Vedrfolnir / Glazemane",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "H-7",
+    "area": "cape_teriggan"
+  },
+  {
+    "id": "wt_uleguerand_range",
+    "name_jp": "ウルガラン山脈（ウォンテッド）",
+    "name_en": "Uleguerand Range (Wanted encounter)",
+    "description": "CL 128 / 麓の洞窟出口 / Camahueto",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "E-9",
+    "area": "uleguerand_range"
+  },
+  {
+    "id": "wt_den_of_rancor",
+    "name_jp": "怨念洞（ウォンテッド）",
+    "name_en": "Den of Rancor (Wanted encounter)",
+    "description": "CL 128 / MAP[2]、Hakutakuポップ地点付近 / Azrael",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "G-12",
+    "area": "den_of_rancor"
+  },
+  {
+    "id": "wt_feiyin",
+    "name_jp": "フェ・イン（ウォンテッド）",
+    "name_en": "Fei'Yin (Wanted encounter)",
+    "description": "CL 128 / MAP[1]、入り口付近 / Borealis Shadow / Carousing Celine",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "F-11",
+    "area": "feiyin"
+  },
+  {
+    "id": "wt_alzadaal_undersea_ruins",
+    "name_jp": "アルザダール海底遺跡群（ウォンテッド）",
+    "name_en": "Alzadaal Undersea Ruins (Wanted encounter)",
+    "description": "CL 128 / MAP[5]、ナイズル島監視哨マップ / Vidmapire",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "G-9",
+    "area": "alzadaal_undersea_ruins"
+  },
+  {
+    "id": "wt_misareaux_coast_2",
+    "name_jp": "ミザレオ海岸（ウォンテッド）",
+    "name_en": "Misareaux Coast (Wanted encounter)",
+    "description": "CL 128 / Tiyanakと同じ / Volatile Cluster",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "F-7",
+    "area": "misareaux_coast"
+  },
+  {
+    "id": "wt_mount_zhayolm",
+    "name_jp": "ゼオルム火山（ウォンテッド）",
+    "name_en": "Mount Zhayolm (Wanted encounter)",
+    "description": "CL 128 / ボゾルド島北部 / Grand Grenade",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "C-7",
+    "area": "mount_zhayolm"
+  },
+  {
+    "id": "wt_gustav_tunnel",
+    "name_jp": "グスタフの洞門（ウォンテッド）",
+    "name_en": "Gustav Tunnel (Wanted encounter)",
+    "description": "CL 128 / MAP[2]入ってすぐ / Wyvernhunter Bambrox",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "H-10",
+    "area": "gustav_tunnel"
+  },
+  {
+    "id": "wt_behemoths_dominion",
+    "name_jp": "ベヒーモスの縄張り（ウォンテッド）",
+    "name_en": "Behemoth's Dominion (Wanted encounter)",
+    "description": "CL 135 / ベヒーモス広場東 / Sovereign Behemoth",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "F-7",
+    "area": "behemoths_dominion"
+  },
+  {
+    "id": "wt_valley_of_sorrows",
+    "name_jp": "慟哭の谷（ウォンテッド）",
+    "name_en": "Valley of Sorrows (Wanted encounter)",
+    "description": "CL 135 / 入口洞窟抜けてすぐ / Tolba",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "F-8",
+    "area": "valley_of_sorrows"
+  },
+  {
+    "id": "wt_wajaom_woodlands_2",
+    "name_jp": "ワジャーム樹林（ウォンテッド）",
+    "name_en": "Wajaom Woodlands (Wanted encounter)",
+    "description": "CL 135 / Kubool Ja's Mhuufyaと同じ / Thu'ban",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "I-10",
+    "area": "wajaom_woodlands"
+  },
+  {
+    "id": "wt_mount_zhayolm_2",
+    "name_jp": "ゼオルム火山（ウォンテッド）",
+    "name_en": "Mount Zhayolm (Wanted encounter)",
+    "description": "CL 135 / Grand Grenadeと同じ / Sarama",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "C-7",
+    "area": "mount_zhayolm"
+  },
+  {
+    "id": "wt_caedarva_mire",
+    "name_jp": "カダーバの浮沼（ウォンテッド）",
+    "name_en": "Caedarva Mire (Wanted encounter)",
+    "description": "CL 135 / MAP[4]、ヘディバ島入り口 / Shedu",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "H-9",
+    "area": "caedarva_mire"
+  },
+  {
+    "id": "wt_aydeewa_subterrane",
+    "name_jp": "エジワ蘿洞（ウォンテッド）",
+    "name_en": "Aydeewa Subterrane (Wanted encounter)",
+    "description": "CL 145 / MAP[2]、サバイバルガイドそば / Tumult Curator",
+    "contents": [
+      "Wanted Encounter"
+    ],
+    "aliases": [],
+    "pos": "H-10",
+    "area": "aydeewa_subterrane"
   }
 ]

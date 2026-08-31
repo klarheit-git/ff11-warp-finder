@@ -1,0 +1,3182 @@
+﻿[
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_east_ronfaure",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_south_gustaberg",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_east_sarutabaruta",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_la_theine_plateau",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_konschtat_highlands",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_tahrongi_canyon",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_valkurm_dunes",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_buburimu_peninsula",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_kuftal_tunnel",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_bibiki_bay",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_carpenters_landing",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_yuhtunga_jungle",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_lufaise_meadows",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_jugner_forest",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_pashhow_marshlands",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_meriphataud_mountains",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_eastern_altepa_desert",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_yhoator_jungle",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_the_sanctuary_of_zitah",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_misareaux_coast",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_labyrinth_of_onzozo",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_bostaunieux_oubliette",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_batallia_downs",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_rolanberry_fields",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_sauromugue_champaign",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_beaucedine_glacier",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_zeruhn_mines",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_romaeve",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_western_altepa_desert",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_attohwa_chasm",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_garlaige_citadel",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_ifrits_cauldron",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_the_boyahda_tree",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_kuftal_tunnel_2",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_sea_serpent_grotto",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_temple_of_uggalepih",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_quicksand_caves",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_wajaom_woodlands",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_lufaise_meadows_2",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_cape_teriggan",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_uleguerand_range",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_den_of_rancor",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_feiyin",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_alzadaal_undersea_ruins",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_misareaux_coast_2",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_mount_zhayolm",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_gustav_tunnel",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_behemoths_dominion",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_valley_of_sorrows",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_wajaom_woodlands_2",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_mount_zhayolm_2",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_caedarva_mire",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_southern_san_doria",
+        "to": "wt_aydeewa_subterrane",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_east_ronfaure",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_south_gustaberg",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_east_sarutabaruta",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_la_theine_plateau",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_konschtat_highlands",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_tahrongi_canyon",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_valkurm_dunes",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_buburimu_peninsula",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_kuftal_tunnel",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_bibiki_bay",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_carpenters_landing",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_yuhtunga_jungle",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_lufaise_meadows",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_jugner_forest",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_pashhow_marshlands",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_meriphataud_mountains",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_eastern_altepa_desert",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_yhoator_jungle",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_the_sanctuary_of_zitah",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_misareaux_coast",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_labyrinth_of_onzozo",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_bostaunieux_oubliette",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_batallia_downs",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_rolanberry_fields",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_sauromugue_champaign",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_beaucedine_glacier",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_zeruhn_mines",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_romaeve",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_western_altepa_desert",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_attohwa_chasm",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_garlaige_citadel",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_ifrits_cauldron",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_the_boyahda_tree",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_kuftal_tunnel_2",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_sea_serpent_grotto",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_temple_of_uggalepih",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_quicksand_caves",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_wajaom_woodlands",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_lufaise_meadows_2",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_cape_teriggan",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_uleguerand_range",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_den_of_rancor",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_feiyin",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_alzadaal_undersea_ruins",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_misareaux_coast_2",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_mount_zhayolm",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_gustav_tunnel",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_behemoths_dominion",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_valley_of_sorrows",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_wajaom_woodlands_2",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_mount_zhayolm_2",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_caedarva_mire",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_bastok_markets",
+        "to": "wt_aydeewa_subterrane",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_east_ronfaure",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_south_gustaberg",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_east_sarutabaruta",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_la_theine_plateau",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_konschtat_highlands",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_tahrongi_canyon",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_valkurm_dunes",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_buburimu_peninsula",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_kuftal_tunnel",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_bibiki_bay",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_carpenters_landing",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_yuhtunga_jungle",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_lufaise_meadows",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_jugner_forest",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_pashhow_marshlands",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_meriphataud_mountains",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_eastern_altepa_desert",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_yhoator_jungle",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_the_sanctuary_of_zitah",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_misareaux_coast",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_labyrinth_of_onzozo",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_bostaunieux_oubliette",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_batallia_downs",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_rolanberry_fields",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_sauromugue_champaign",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_beaucedine_glacier",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_zeruhn_mines",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_romaeve",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_western_altepa_desert",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_attohwa_chasm",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_garlaige_citadel",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_ifrits_cauldron",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_the_boyahda_tree",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_kuftal_tunnel_2",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_sea_serpent_grotto",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_temple_of_uggalepih",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_quicksand_caves",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_wajaom_woodlands",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_lufaise_meadows_2",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_cape_teriggan",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_uleguerand_range",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_den_of_rancor",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_feiyin",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_alzadaal_undersea_ruins",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_misareaux_coast_2",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_mount_zhayolm",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_gustav_tunnel",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_behemoths_dominion",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_valley_of_sorrows",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_wajaom_woodlands_2",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_mount_zhayolm_2",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_caedarva_mire",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_windurst_woods",
+        "to": "wt_aydeewa_subterrane",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_east_ronfaure",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_south_gustaberg",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_east_sarutabaruta",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_la_theine_plateau",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_konschtat_highlands",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_tahrongi_canyon",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_valkurm_dunes",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_buburimu_peninsula",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_kuftal_tunnel",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_bibiki_bay",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_carpenters_landing",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_yuhtunga_jungle",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_lufaise_meadows",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_jugner_forest",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_pashhow_marshlands",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_meriphataud_mountains",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_eastern_altepa_desert",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_yhoator_jungle",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_the_sanctuary_of_zitah",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_misareaux_coast",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_labyrinth_of_onzozo",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_bostaunieux_oubliette",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_batallia_downs",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_rolanberry_fields",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_sauromugue_champaign",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_beaucedine_glacier",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_zeruhn_mines",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_romaeve",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_western_altepa_desert",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_attohwa_chasm",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_garlaige_citadel",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_ifrits_cauldron",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_the_boyahda_tree",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_kuftal_tunnel_2",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_sea_serpent_grotto",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_temple_of_uggalepih",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_quicksand_caves",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_wajaom_woodlands",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_lufaise_meadows_2",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_cape_teriggan",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_uleguerand_range",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_den_of_rancor",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_feiyin",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_alzadaal_undersea_ruins",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_misareaux_coast_2",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_mount_zhayolm",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_gustav_tunnel",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_behemoths_dominion",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_valley_of_sorrows",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_wajaom_woodlands_2",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_mount_zhayolm_2",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_caedarva_mire",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    },
+    {
+        "type": "wanted",
+        "from": "wt_western_adoulin",
+        "to": "wt_aydeewa_subterrane",
+        "cost": {
+            "Uni": 100
+        },
+        "time": 1,
+        "conditions_jp": [
+            "ユニティ参加"
+        ],
+        "conditions_en": [
+            "Unity Participation"
+        ]
+    }
+]

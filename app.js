@@ -1,11 +1,13 @@
 const serviceLabels = {
     homepoint: 'ホームポイント',
-    survival_guide: 'サバイバルガイド'
+    survival_guide: 'サバイバルガイド',
+    wanted: 'ウォンテッド'
 };
 const lang = "jp";
 
 const fromAreaSelect = document.getElementById('from-area');
 const toAreaSelect = document.getElementById('to-area');
+const areaSearchInput = document.getElementById('area-search');
 const summaryBox = document.getElementById('summary');
 const routeList = document.getElementById('route-list');
 
@@ -24,6 +26,41 @@ function formatAreaLabel(area) {
 function buildRouteIndex(direction = 'to') {
     const index = new Map();
 
+    const registerRouteEntry = (service, sourceArea, destinationArea, warp, location) => {
+        const key = direction === 'from' ? sourceArea.id : destinationArea.id;
+        const areaId = direction === 'from' ? destinationArea.id : sourceArea.id;
+        const area = direction === 'from' ? destinationArea : sourceArea;
+
+        if (!index.has(key)) {
+            index.set(key, []);
+        }
+
+        const routes = index.get(key);
+        let existing = routes.find(route =>
+            route.areaId === areaId && route.service === service
+        );
+
+        if (!existing) {
+            existing = {
+                areaId,
+                area,
+                service,
+                entries: []
+            };
+            routes.push(existing);
+        }
+
+        existing.entries.push({
+            label: location.name_jp,
+            description: location.description,
+            locationId: location.id,
+            pos: location.pos,
+            cost: warp.cost,
+            time: warp.time,
+            conditions: warp.conditions_jp || []
+        });
+    };
+
     const register = (service, warpEntries) => {
         warpEntries.forEach((warp) => {
             const location = locationsById.get(warp.to);
@@ -37,45 +74,30 @@ function buildRouteIndex(direction = 'to') {
             const sourceAreas = areas.filter((area) => area.warp_services?.includes(service));
 
             sourceAreas.forEach((sourceArea) => {
-
-                const key = direction === 'from' ? sourceArea.id : destinationArea.id;
-                const areaId = direction === 'from' ? destinationArea.id : sourceArea.id;
-                const area = direction === 'from' ? destinationArea : sourceArea;
-
-                if (!index.has(key)) {
-                    index.set(key, []);
-                }
-
-                const routes = index.get(key);
-                let existing = routes.find(route =>
-                    route.areaId === areaId && route.service === service
-                );
-
-                if (!existing) {
-                    existing = {
-                        areaId,
-                        area,
-                        service,
-                        entries: []
-                    };
-                    routes.push(existing);
-                }
-
-                existing.entries.push({
-                    label: location.name_jp,
-                    description: location.description,
-                    locationId: location.id,
-                    pos: location.pos,
-                    cost: warp.cost,
-                    time: warp.time,
-                    conditions: warp.conditions_jp || []
-                });
+                registerRouteEntry(service, sourceArea, destinationArea, warp, location);
             });
         });
     };
 
+    const registerWanted = (warp) => {
+        const sourceLocation = locationsById.get(warp.from);
+        const destinationLocation = locationsById.get(warp.to);
+        if (!sourceLocation || !destinationLocation) {
+            return;
+        }
+
+        const sourceArea = areasById.get(sourceLocation.area);
+        const destinationArea = areasById.get(destinationLocation.area);
+        if (!sourceArea || !destinationArea) {
+            return;
+        }
+
+        registerRouteEntry('wanted', sourceArea, destinationArea, warp, destinationLocation);
+    };
+
     register('homepoint', window.homepoints || []);
     register('survival_guide', window.survivalGuides || []);
+    (window.wantedWarps || []).forEach(registerWanted);
 
     // ソート。なんかしたかったらここでやる。
     // index.forEach((routes) => {
@@ -85,17 +107,41 @@ function buildRouteIndex(direction = 'to') {
     return index;
 }
 
-function populateAreaSelect(select, selectedValue) {
+function populateAreaSelect(select, selectedValue, query = '') {
     select.innerHTML = '';
     const fragment = document.createDocumentFragment();
-    areas.forEach((area) => {
+    const normalizedQuery = query.trim().toLowerCase();
+    const matchedAreas = areas.filter((area) => {
+        if (!normalizedQuery) {
+            return true;
+        }
+
+        const haystack = `${area.name_jp} ${area.name_en}`.toLowerCase();
+        return haystack.includes(normalizedQuery);
+    });
+
+    if (matchedAreas.length === 0) {
+        const option = document.createElement('option');
+        option.value = '';
+        option.textContent = '一致するエリアがありません';
+        option.disabled = true;
+        fragment.appendChild(option);
+        select.appendChild(fragment);
+        select.value = '';
+        return;
+    }
+
+    matchedAreas.forEach((area) => {
         const option = document.createElement('option');
         option.value = area.id;
         option.textContent = `${area.name_jp} (${area.name_en})`;
         fragment.appendChild(option);
     });
+
     select.appendChild(fragment);
-    select.value = selectedValue || areas[0]?.id || '';
+    select.value = matchedAreas.some((area) => area.id === selectedValue)
+        ? selectedValue
+        : matchedAreas[0]?.id || '';
 }
 
 function populateDestinationSelect(sourceAreaId) {
@@ -212,7 +258,7 @@ function renderRoutes(fromAreaId, toAreaId) {
                     const costParts = Object.entries(entry.cost || {})
                         // .map(([key, value]) => `${key}: ${value}`) // 行き先によって値段変わる計算までやる意義が薄いから、保留
                         .map(([key, value]) => `${key}`)
-                        .join(' / ');
+                        .join(', ');
                     const conditionText = entry.conditions.length > 0 ? entry.conditions.join(', ') : '条件なし';
                     return `
             <li>
@@ -239,22 +285,25 @@ function renderRoutes(fromAreaId, toAreaId) {
 }
 
 async function loadData() {
-    const [areaResponse, locationResponse, homepointResponse, survivalGuideResponse] = await Promise.all([
+    const [areaResponse, locationResponse, homepointResponse, survivalGuideResponse, wantedResponse] = await Promise.all([
         fetch('./data/area.json'),
         fetch('./data/locations.json'),
         fetch('./data/warp/homepoints.json'),
-        fetch('./data/warp/survival-guides.json')
+        fetch('./data/warp/survival-guides.json'),
+        fetch('./data/warp/wanted.json')
     ]);
 
     areas = await areaResponse.json();
     locations = await locationResponse.json();
     const homepoints = await homepointResponse.json();
     const survivalGuides = await survivalGuideResponse.json();
+    const wantedWarps = await wantedResponse.json();
 
     areasById = new Map(areas.map((area) => [area.id, area]));
     locationsById = new Map(locations.map((location) => [location.id, location]));
     window.homepoints = homepoints;
     window.survivalGuides = survivalGuides;
+    window.wantedWarps = wantedWarps;
     routeIndexFrom = buildRouteIndex('from');
     routeIndexTo = buildRouteIndex('to');
 
@@ -273,6 +322,15 @@ fromAreaSelect.addEventListener('change', () => {
 });
 
 toAreaSelect.addEventListener('change', () => {
+    populateSourceSelect(toAreaSelect.value);
+    renderSummary(fromAreaSelect.value, toAreaSelect.value);
+    renderRoutes(fromAreaSelect.value, toAreaSelect.value);
+});
+
+areaSearchInput.addEventListener('input', () => {
+    const query = areaSearchInput.value;
+
+    populateAreaSelect(toAreaSelect, toAreaSelect.value, query);
     populateSourceSelect(toAreaSelect.value);
     renderSummary(fromAreaSelect.value, toAreaSelect.value);
     renderRoutes(fromAreaSelect.value, toAreaSelect.value);
